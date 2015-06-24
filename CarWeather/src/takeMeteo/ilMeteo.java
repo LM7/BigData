@@ -43,6 +43,7 @@ public class ilMeteo {
 			}
 		}catch(Exception e){
 			e.printStackTrace();
+			return null;
 		}
 		//System.out.println("html "+html);
 		return html;
@@ -73,8 +74,12 @@ public class ilMeteo {
 			return fenomeni;
 		}
 		String condizioniMeteo = "";
-		String[] fenomeni = new String[]{"Nessuno","Nessuno"};
+		String[] fenomeni = new String[]{"nessuno","nessuno"};
 		String html = ilMeteo.query(citta,data);
+		if(html == null){
+			System.out.println("Riprova");
+			return null;
+		}
 		String regex_table = "<table.*?>(.*)</table>";
 		Pattern pattern_table = Pattern.compile(regex_table);
 		String regex_riga = "<tr.*?>(.*?)</tr>";
@@ -107,9 +112,9 @@ public class ilMeteo {
 						String fenomeni_html = matcher_colonna.group(1);						
 						Matcher matcher_image_alt = pattern_image_alt.matcher(fenomeni_html);
 						if(matcher_image_alt.find())
-							fenomeni[0] = matcher_image_alt.group(1).replaceAll("\"", "");
+							fenomeni[0] = matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
 						if(matcher_image_alt.find())
-							fenomeni[1] = matcher_image_alt.group(1).replaceAll("\"", "");
+							fenomeni[1] = matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
 					}
 				}
 				
@@ -121,7 +126,7 @@ public class ilMeteo {
 					if(matcher_colonna.find()) {
 						matcher_colonna.group(1);
 						matcher_colonna.find();
-						condizioniMeteo = matcher_colonna.group(1);
+						condizioniMeteo = matcher_colonna.group(1).toLowerCase();
 					}
 				}
 				
@@ -139,7 +144,10 @@ public class ilMeteo {
 	public static void main(String[] args) {
 		//ilMeteo.takeTable("Roma", "2015031584598");
 		
-		String[] risposta = ilMeteo.findMeteo("Milano", "20150304");
+		String[] risposta = ilMeteo.findMeteo("Milano", "20150302");
+		System.out.println("risposta = "+risposta[0]+","+risposta[1]);
+		
+		risposta = ilMeteo.findMeteo("Milano", "20150302");
 		System.out.println("risposta = "+risposta[0]+","+risposta[1]);
 		
 		//String risposta = ilMeteo.findMeteo("Roma", "2015031584598");

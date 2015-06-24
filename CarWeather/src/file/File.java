@@ -19,8 +19,15 @@ public class File {
 		while((line = bufferedReader.readLine()) != null) {
 			String[] riga = line.split(" ");
 			if (riga[0].equals(data)){
-				bufferedReader.close(); 
-				return new String[]{riga[1],riga[2],riga[3]};
+				bufferedReader.close();
+				if (riga.length == 4)
+					return new String[]{riga[1],riga[2],riga[3]};
+				else{
+					String meteo="";
+					for(int i=3;i<riga.length;i++)
+						meteo += riga[i]+" ";
+					return new String[]{riga[1],riga[2],meteo.trim()};
+				}
 			}
 		}    
 
