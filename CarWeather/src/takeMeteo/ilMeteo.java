@@ -6,6 +6,8 @@ import java.net.URL;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+import file.File;
+
 
 public class ilMeteo {
 	
@@ -60,6 +62,16 @@ public class ilMeteo {
 	}
 	
 	public static String[] findMeteo(String citta,String data){
+		String results[] = File.takeFile(citta, data.substring(4, 8));
+		if(results!=null){
+			System.out.println("From file");
+			String[] fenomeni = new String[]{results[0],results[1]};
+			String condizioniMeteo = results[2];
+			System.out.println("Fenomeni = "+fenomeni[0]+" "+fenomeni[1]);
+			System.out.println("Condizioni meteo = "+condizioniMeteo);
+			System.out.println();
+			return fenomeni;
+		}
 		String condizioniMeteo = "";
 		String[] fenomeni = new String[]{"Nessuno","Nessuno"};
 		String html = ilMeteo.query(citta,data);
@@ -118,6 +130,8 @@ public class ilMeteo {
 		System.out.println("Fenomeni = "+fenomeni[0]+" "+fenomeni[1]);
 		System.out.println("Condizioni meteo = "+condizioniMeteo);
 		System.out.println();
+		
+		File.createFile(citta, data.substring(4, 8), new String[]{fenomeni[0],fenomeni[1],condizioniMeteo});
 		return fenomeni;
 		
 	}
