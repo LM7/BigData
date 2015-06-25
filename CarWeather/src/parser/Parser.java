@@ -10,6 +10,27 @@ import java.util.ArrayList;
 
 public class Parser {
 	
+	/***
+	 * Array di 15 elementi, ha subito i primi 13 elementi, gli altri due saranno quelli relativi al meteo,
+	 * da aggiungere in seguito.
+	 * @param linea
+	 * @return
+	 */
+	
+	public static String[] oneLineToArray(String linea) {
+		String[] elementiUtili = new String[15];
+		String[] splits = linea.split(",");
+		int i;
+		int j = 0;
+		for(i = 0; i < splits.length; i++) {
+			if (i != 1 && i != 7 && i != 13 && i != 16 && i != 17) {
+				elementiUtili[j] = splits[i];
+				j++;
+			}
+		}
+		return elementiUtili;
+	}
+	
 	public static void fileToProv(File file) throws IOException {
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
 		String line = reader.readLine();
@@ -113,10 +134,16 @@ public class Parser {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		File file = new File("province.txt");
+		//File file = new File("province.txt");
 		//File file = new File("DatasetMobility.txt");
 		//Parser.fileToProv(file);
-		Parser.fileToRight(file);
+		//Parser.fileToRight(file);
+		String[] parole;
+		String text = "3,1,20150302220013,U,00169,Roma,RM,3,2015032221157,U,00043,Ciampino,RM,3,11500,16,13,3";
+		parole = Parser.oneLineToArray(text);
+		for (int i=0; i <parole.length; i++) {
+			System.out.println(i+": "+parole[i]);
+		}
 	}
 
 }
