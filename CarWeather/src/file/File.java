@@ -11,61 +11,54 @@ public class File {
 		String fileName = "citta/"+citta+".txt";
 		String line = null;
 		try{
-		FileReader fileReader = new FileReader(fileName);
+			FileReader fileReader = new FileReader(fileName);
 
-		// Always wrap FileReader in BufferedReader.
-		BufferedReader bufferedReader = new BufferedReader(fileReader);
+			// Always wrap FileReader in BufferedReader.
+			BufferedReader bufferedReader = new BufferedReader(fileReader);
 
-		while((line = bufferedReader.readLine()) != null) {
-			String[] riga = line.split(" ");
-			if (riga[0].equals(data)){
-				bufferedReader.close();
-				if (riga.length == 4)
-					return new String[]{riga[1],riga[2],riga[3]};
-				else{
-					String meteo="";
-					for(int i=3;i<riga.length;i++)
-						meteo += riga[i]+" ";
-					return new String[]{riga[1],riga[2],meteo.trim()};
+			while((line = bufferedReader.readLine()) != null) {
+				String[] riga = line.split(",");
+				if (riga[0].equals(data)){
+					bufferedReader.close();
+					return new String[]{riga[1],riga[2]};
 				}
-			}
-		}    
+			}    
 
-		// Always close files.
-		bufferedReader.close(); 
+			// Always close files.
+			bufferedReader.close(); 
 		}catch(Exception e){
 			e.getMessage();
 			return null;
 		}
 		return null;
 	}
-	
+
 	public static void createFile(String citta,String data,String[] meteo){
 		String fileName = "citta/"+citta+".txt";
 
-        try {
-            FileWriter fileWriter = new FileWriter(fileName,true);
-            
-            BufferedWriter bufferedWriter =new BufferedWriter(fileWriter);
+		try {
+			FileWriter fileWriter = new FileWriter(fileName,true);
 
-            bufferedWriter.newLine();
-            bufferedWriter.write(data+" "+meteo[0]+" "+meteo[1]+" "+meteo[2]);
+			BufferedWriter bufferedWriter =new BufferedWriter(fileWriter);
 
-            bufferedWriter.close();
-        }
-        catch(Exception ex) {
-            System.out.println("Error writing to file '"+ fileName + "'");
-        }
+			bufferedWriter.newLine();
+			bufferedWriter.write(data+","+meteo[0]+","+meteo[1]);
+
+			bufferedWriter.close();
+		}
+		catch(Exception ex) {
+			System.out.println("Error writing to file '"+ fileName + "'");
+		}
 	}
-	
+
 	public static void main(String[] args) {
 		String[] results = File.takeFile("Roma", "0315");
 		if (results != null){
-			System.out.println("Fenomeni = "+results[0]+" "+results[1]);
-			System.out.println("Condizioni meteo = "+results[2]);
+			System.out.println("Condizioni meteo = "+results[0]);
+			System.out.println("Fenomeni = "+results[1]);			
 		}
 		else {
-			File.createFile("Roma", "0315", new String[]{"Bello","BUnoo","ok"});
+			File.createFile("Roma", "0315", new String[]{"Bello","BUnoo ok"});
 			System.out.println("creato??");
 		}
 	}

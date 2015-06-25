@@ -1,0 +1,4 @@
+
+0304,nubi sparse,pioggia
+0302,nubi sparse,pioggia
+0301,poco nuvoloso,nessuno

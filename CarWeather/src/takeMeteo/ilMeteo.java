@@ -62,19 +62,19 @@ public class ilMeteo {
 		return null;
 	}
 	
+	//[0]condizioni meteo, [1]fenomeni
 	public static String[] findMeteo(String citta,String data){
 		String results[] = File.takeFile(citta, data.substring(4, 8));
 		if(results!=null){
 			System.out.println("From file");
-			String[] fenomeni = new String[]{results[0],results[1]};
-			String condizioniMeteo = results[2];
-			System.out.println("Fenomeni = "+fenomeni[0]+" "+fenomeni[1]);
+			String condizioniMeteo = results[0];
+			String fenomeni = results[1];
 			System.out.println("Condizioni meteo = "+condizioniMeteo);
-			System.out.println();
-			return fenomeni;
+			System.out.println("Fenomeni = "+fenomeni);
+			return results;
 		}
 		String condizioniMeteo = "";
-		String[] fenomeni = new String[]{"nessuno","nessuno"};
+		String fenomeni = "nessuno";
 		String html = ilMeteo.query(citta,data);
 		if(html == null){
 			System.out.println("Riprova");
@@ -112,9 +112,9 @@ public class ilMeteo {
 						String fenomeni_html = matcher_colonna.group(1);						
 						Matcher matcher_image_alt = pattern_image_alt.matcher(fenomeni_html);
 						if(matcher_image_alt.find())
-							fenomeni[0] = matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
+							fenomeni += matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
 						if(matcher_image_alt.find())
-							fenomeni[1] = matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
+							fenomeni += " "+ matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
 					}
 				}
 				
@@ -132,22 +132,23 @@ public class ilMeteo {
 				
 			}
 		}
-		System.out.println("Fenomeni = "+fenomeni[0]+" "+fenomeni[1]);
 		System.out.println("Condizioni meteo = "+condizioniMeteo);
-		System.out.println();
+		System.out.println("Fenomeni = "+fenomeni);
 		
-		File.createFile(citta, data.substring(4, 8), new String[]{fenomeni[0],fenomeni[1],condizioniMeteo});
-		return fenomeni;
+		File.createFile(citta, data.substring(4, 8), new String[]{condizioniMeteo,fenomeni});
+		return new String[]{condizioniMeteo,fenomeni};
 		
 	}
 	
 	public static void main(String[] args) {
 		//ilMeteo.takeTable("Roma", "2015031584598");
 		
-		String[] risposta = ilMeteo.findMeteo("Milano", "20150302");
+		String[] risposta = ilMeteo.findMeteo("Roma", "20150301");
 		System.out.println("risposta = "+risposta[0]+","+risposta[1]);
 		
-		risposta = ilMeteo.findMeteo("Milano", "20150302");
+		System.out.println();
+		
+		risposta = ilMeteo.findMeteo("Roma", "20150301");
 		System.out.println("risposta = "+risposta[0]+","+risposta[1]);
 		
 		//String risposta = ilMeteo.findMeteo("Roma", "2015031584598");
