@@ -43,10 +43,80 @@ public class Parser {
 		System.out.println("NUMERO PROVINCE "+listaProv.size());
 	}
 	
+	/***
+	 * Una lista di array di stringhe ArrayList<String[]>
+	 * Ogni elemento della lista corrisponde a una frase, elementi della frase:
+	 * 
+	 * 0 = Tipo di Veicolo
+	 * 1 = Tempo di Partenza
+	 * 2 = Tipo di Strada
+	 * 3 = CAP di Partenza
+	 * 4 = Città di Partenza
+	 * 5 = Provincia di Partenza
+	 * 6 = Tempo di Arrivo
+	 * 7 = Tipo di Strada
+	 * 8 = CAP di Arrivo
+	 * 9 = Città di Arrivo
+	 * 10 = Provincia di Arrivo
+	 * 11 = Distanza
+	 * 12 = Velocità Media
+	 * 
+	 * Si crea anche un file con i 13 dati che vogliamo (invece dei 18 iniziali)
+	 *
+	 * @param file
+	 * @throws IOException
+	 */
+	
+	public static void fileToRight(File file) throws IOException {
+		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
+		String line = reader.readLine();
+		PrintWriter datiGiusti = new PrintWriter("datiFinaliGiusti.txt", "UTF-8");
+		String[] appoggio;
+		ArrayList<String[]> datiFinali = new ArrayList<String[]>(); //potrebbe servire
+		int i;
+		int j;
+		while (line!=null) {
+			appoggio = new String[13];
+			String[] splits = line.split(",");
+			j = 0;
+			for(i = 0; i < splits.length; i++) {
+				if (i != 1 && i != 7 && i != 13 && i != 16 && i != 17) {
+					if (i ==  15 ) {
+						datiGiusti.print(splits[i]);
+						datiGiusti.println();
+						appoggio[j] = splits[i];
+					}
+					else {
+						datiGiusti.print(splits[i]+",");
+						appoggio[j] = splits[i];
+					}
+					j++;
+				}
+			}
+			/*for (int k = 0; k < 13; k++) {
+				System.out.println(appoggio[k] + " "+k);
+			}*/
+			datiFinali.add(appoggio);
+			line = reader.readLine();
+		}
+		datiGiusti.close();
+		reader.close();
+		
+		System.out.println("DONE");
+		
+		/*for (String[] frasi: datiFinali) {
+			for (int k = 0; k < 13; k++) {
+				System.out.println(frasi[k]);
+			}
+		}*/
+		
+	}
+	
 	public static void main(String[] args) throws IOException {
-		//File file = new File("province.txt");
-		File file = new File("DatasetMobility.txt");
-		Parser.fileToProv(file);
+		File file = new File("province.txt");
+		//File file = new File("DatasetMobility.txt");
+		//Parser.fileToProv(file);
+		Parser.fileToRight(file);
 	}
 
 }
