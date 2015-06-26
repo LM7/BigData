@@ -66,11 +66,11 @@ public class ilMeteo {
 	public static String[] findMeteo(String citta,String data){
 		String results[] = File.takeFile(citta, data.substring(4, 8));
 		if(results!=null){
-			System.out.println("From file");
+			//System.out.println("From file");
 			String condizioniMeteo = results[0];
 			String fenomeni = results[1];
-			System.out.println("Condizioni meteo = "+condizioniMeteo);
-			System.out.println("Fenomeni = "+fenomeni);
+			//System.out.println("Condizioni meteo = "+condizioniMeteo);
+			//System.out.println("Fenomeni = "+fenomeni);
 			return results;
 		}
 		String condizioniMeteo = "";
@@ -132,8 +132,8 @@ public class ilMeteo {
 				
 			}
 		}
-		System.out.println("Condizioni meteo = "+condizioniMeteo);
-		System.out.println("Fenomeni = "+fenomeni);
+		//System.out.println("Condizioni meteo = "+condizioniMeteo);
+		//System.out.println("Fenomeni = "+fenomeni);
 		
 		File.createFile(citta, data.substring(4, 8), new String[]{condizioniMeteo,fenomeni});
 		return new String[]{condizioniMeteo,fenomeni};
