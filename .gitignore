@@ -28,4 +28,6 @@ Temporary Items
 #java
 .classpath
 .settings
-/prova
+/prova/CarWeather
+/CarWeather/output
+
