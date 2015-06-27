@@ -8,3 +8,4 @@
 0320,poco nuvoloso,nessuno
 0327,poco nuvoloso,nessunopioggia
 0401,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno

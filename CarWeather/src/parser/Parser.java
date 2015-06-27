@@ -2,7 +2,6 @@ package parser;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -18,7 +17,7 @@ public class Parser {
 	 */
 	
 	public static String[] oneLineToArray(String linea) {
-		String[] elementiUtili = new String[15];
+		String[] elementiUtili = new String[13];
 		String[] splits = linea.split(",");
 		int i;
 		int j = 0;
@@ -69,12 +68,12 @@ public class Parser {
 	 * Ogni elemento della lista corrisponde a una frase, elementi della frase:
 	 * 
 	 * 0 = Tipo di Veicolo
-	 * 1 = Tempo di Partenza
+	 * 1 = Data di Partenza
 	 * 2 = Tipo di Strada
 	 * 3 = CAP di Partenza
 	 * 4 = Città di Partenza
 	 * 5 = Provincia di Partenza
-	 * 6 = Tempo di Arrivo
+	 * 6 = Data di Arrivo
 	 * 7 = Tipo di Strada
 	 * 8 = CAP di Arrivo
 	 * 9 = Città di Arrivo
