@@ -1,6 +1,7 @@
 package fusionSpark;
 
 import java.util.ArrayList;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
@@ -17,16 +18,18 @@ import org.apache.spark.api.java.function.PairFunction;
 import parser.Parser;
 import scala.Tuple2;
 import takeMeteo.ilMeteo;
+import workData.Data;
 
 /***
- * Data, Luogo e Condizioni Meteo sia di partenza sia di arrivo
+ * Luogo, Condizioni Meteo e Giorno Feriale/Festivo sia di partenza sia di arrivo
  * @author lorenzomartucci
  *
  */
-public class DataLuogoMeteoPartArrivo {
+public class LuogoMeteoFestivoPartArrivo {
 	
 	@SuppressWarnings({ "resource", "serial" })
 	public static void main(String[] args) {
+		
 		long start = System.nanoTime();
 		Logger.getLogger("org").setLevel(Level.OFF);
 		String logFile = "inputProva.txt"; // Settare il path del file di input
@@ -36,7 +39,8 @@ public class DataLuogoMeteoPartArrivo {
 
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
 			public Iterable<String> call(String line) { 
-				
+				String festaPartenza;
+				String festaArrivo;
 				String[] arrayLine = Parser.oneLineToArray(line);
 				String[] datiMeteoPartenza = ilMeteo.findMeteo(arrayLine[4], arrayLine[1]);
 				
@@ -51,9 +55,23 @@ public class DataLuogoMeteoPartArrivo {
 					datiMeteoArrivo[0] = "NienteMeteoArrivo";
 				}
 				
-				String dataPartenza = arrayLine[1].substring(0, 4)+"-"+arrayLine[1].substring(4, 6)+"-"+arrayLine[1].substring(6, 8);
-				String dataArrivo = arrayLine[6].substring(0, 4)+"-"+arrayLine[6].substring(4, 6)+"-"+arrayLine[6].substring(6, 8);
-				String key = dataPartenza +" "+arrayLine[4]+" "+datiMeteoPartenza[0]+" "+dataArrivo+" "+arrayLine[9]+" "+datiMeteoArrivo[0];
+				boolean festivoPartenza = Data.isFestivity(arrayLine[1]);
+				if (festivoPartenza) {
+					festaPartenza = "FestivoPartenza";
+				}
+				else {
+					festaPartenza = "FerialePartenza";
+				}
+				
+				boolean festivoArrivo = Data.isFestivity(arrayLine[6]);
+				if (festivoArrivo) {
+					festaArrivo = "FestivoArrivo";
+				}
+				else {
+					festaArrivo = "FerialeArrivo";
+				}
+				
+				String key = arrayLine[4]+" "+datiMeteoPartenza[0]+" "+festaPartenza+" "+arrayLine[9]+" "+datiMeteoArrivo[0]+" "+festaArrivo;
 				
 				ArrayList<String> al = new ArrayList<String>();
 				al.add(key);

@@ -1,6 +1,7 @@
 package fusionSpark;
 
 import java.util.ArrayList;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
@@ -17,13 +18,14 @@ import org.apache.spark.api.java.function.PairFunction;
 import parser.Parser;
 import scala.Tuple2;
 import takeMeteo.ilMeteo;
+import workData.Data;
 
 /***
- * Data, Luogo e Condizioni Meteo sia di partenza sia di arrivo
+ * Luogo, Condizioni Meteo e Fascia Oraria sia di partenza sia d'arrivo
  * @author lorenzomartucci
  *
  */
-public class DataLuogoMeteoPartArrivo {
+public class LuogoMeteoOrariPartArrivo {
 	
 	@SuppressWarnings({ "resource", "serial" })
 	public static void main(String[] args) {
@@ -36,7 +38,8 @@ public class DataLuogoMeteoPartArrivo {
 
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
 			public Iterable<String> call(String line) { 
-				
+				int orarioPartenza;
+				int orarioArrivo;
 				String[] arrayLine = Parser.oneLineToArray(line);
 				String[] datiMeteoPartenza = ilMeteo.findMeteo(arrayLine[4], arrayLine[1]);
 				
@@ -50,10 +53,10 @@ public class DataLuogoMeteoPartArrivo {
 					datiMeteoArrivo = new String[1];
 					datiMeteoArrivo[0] = "NienteMeteoArrivo";
 				}
+				orarioPartenza = Data.fasciaOraria(arrayLine[1]);
+				orarioArrivo = Data.fasciaOraria(arrayLine[6]);
 				
-				String dataPartenza = arrayLine[1].substring(0, 4)+"-"+arrayLine[1].substring(4, 6)+"-"+arrayLine[1].substring(6, 8);
-				String dataArrivo = arrayLine[6].substring(0, 4)+"-"+arrayLine[6].substring(4, 6)+"-"+arrayLine[6].substring(6, 8);
-				String key = dataPartenza +" "+arrayLine[4]+" "+datiMeteoPartenza[0]+" "+dataArrivo+" "+arrayLine[9]+" "+datiMeteoArrivo[0];
+				String key = arrayLine[4]+" "+datiMeteoPartenza[0]+" Fascia Oraria: "+orarioPartenza+" "+arrayLine[9]+" "+datiMeteoArrivo[0]+" Fascia Oraria: "+orarioArrivo;
 				
 				ArrayList<String> al = new ArrayList<String>();
 				al.add(key);
@@ -104,5 +107,6 @@ public class DataLuogoMeteoPartArrivo {
 		
 		counts.saveAsTextFile("output"); // Settare il path dei file di output
 	}
+
 
 }

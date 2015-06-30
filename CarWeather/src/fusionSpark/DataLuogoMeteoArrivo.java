@@ -21,7 +21,7 @@ import scala.Tuple2;
 import takeMeteo.ilMeteo;
 
 /***
- * Data d'arrivo, luogo d'arrivo, condizioni meteo d'arrivo
+ * Data, Luogo e Condizioni Meteo d'arrivo
  * @author lorenzomartucci
  *
  */
@@ -32,7 +32,7 @@ public class DataLuogoMeteoArrivo {
 	public static void main(String[] args) {
 		long start = System.nanoTime();
 		Logger.getLogger("org").setLevel(Level.OFF);
-		String logFile = "inputProva.txt"; // Settare il path del file di input
+		String logFile = "DatasetMobility.txt"; // Settare il path del file di input
 		SparkConf conf = new SparkConf().setAppName("Word Count Application").setMaster("local[*]");
 		JavaSparkContext spark = new JavaSparkContext(conf);
 		JavaRDD<String> textFile = spark.textFile(logFile);
@@ -40,7 +40,13 @@ public class DataLuogoMeteoArrivo {
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
 			public Iterable<String> call(String line) { 
 				String[] arrayLine = Parser.oneLineToArray(line);
+				System.out.println("CITTA': "+arrayLine[9]);
+				System.out.println("DATA: "+arrayLine[6]);
 				String[] datiMeteo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
+				if (datiMeteo == null || datiMeteo[0].equals("") ) {
+					datiMeteo = new String[1];
+					datiMeteo[0] = "NienteMeteo";
+				}
 				String data = arrayLine[6].substring(0, 4)+"-"+arrayLine[6].substring(4, 6)+"-"+arrayLine[6].substring(6, 8);
 				String key = data +" "+arrayLine[9]+" "+datiMeteo[0];
 				ArrayList<String> al = new ArrayList<String>();

@@ -1,6 +1,7 @@
 package fusionSpark;
 
 import java.util.ArrayList;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
@@ -17,44 +18,37 @@ import org.apache.spark.api.java.function.PairFunction;
 import parser.Parser;
 import scala.Tuple2;
 import takeMeteo.ilMeteo;
+import workData.Data;
 
 /***
- * Data, Luogo e Condizioni Meteo sia di partenza sia di arrivo
+ * Luogo, Condizioni Meteo e Fascia Oraria d'arrivo
  * @author lorenzomartucci
  *
  */
-public class DataLuogoMeteoPartArrivo {
+public class LuogoMeteoOrariArrivo {
 	
 	@SuppressWarnings({ "resource", "serial" })
 	public static void main(String[] args) {
 		long start = System.nanoTime();
 		Logger.getLogger("org").setLevel(Level.OFF);
-		String logFile = "inputProva.txt"; // Settare il path del file di input
+		String logFile = "DatasetMobility.txt"; // Settare il path del file di input
 		SparkConf conf = new SparkConf().setAppName("Word Count Application").setMaster("local[*]");
 		JavaSparkContext spark = new JavaSparkContext(conf);
 		JavaRDD<String> textFile = spark.textFile(logFile);
 
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
 			public Iterable<String> call(String line) { 
-				
+				int orario;
 				String[] arrayLine = Parser.oneLineToArray(line);
-				String[] datiMeteoPartenza = ilMeteo.findMeteo(arrayLine[4], arrayLine[1]);
-				
-				if (datiMeteoPartenza == null || datiMeteoPartenza.equals("")) {
-					datiMeteoPartenza = new String[1];
-					datiMeteoPartenza[0] = "NienteMeteoPartenza";
+				System.out.println("CITTA': "+arrayLine[9]);
+				System.out.println("DATA: "+arrayLine[6]);
+				String[] datiMeteo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
+				if (datiMeteo == null || datiMeteo[0].equals("") ) {
+					datiMeteo = new String[1];
+					datiMeteo[0] = "NienteMeteo";
 				}
-				String[] datiMeteoArrivo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
-				
-				if (datiMeteoArrivo == null || datiMeteoArrivo.equals("") ) {
-					datiMeteoArrivo = new String[1];
-					datiMeteoArrivo[0] = "NienteMeteoArrivo";
-				}
-				
-				String dataPartenza = arrayLine[1].substring(0, 4)+"-"+arrayLine[1].substring(4, 6)+"-"+arrayLine[1].substring(6, 8);
-				String dataArrivo = arrayLine[6].substring(0, 4)+"-"+arrayLine[6].substring(4, 6)+"-"+arrayLine[6].substring(6, 8);
-				String key = dataPartenza +" "+arrayLine[4]+" "+datiMeteoPartenza[0]+" "+dataArrivo+" "+arrayLine[9]+" "+datiMeteoArrivo[0];
-				
+				orario = Data.fasciaOraria(arrayLine[6]);
+				String key = arrayLine[9]+" "+datiMeteo[0]+" Fascia Oraria: "+orario;
 				ArrayList<String> al = new ArrayList<String>();
 				al.add(key);
 				return al;
@@ -100,7 +94,6 @@ public class DataLuogoMeteoPartArrivo {
 		System.out.println("microsecondi: "+microseconds);
 		System.out.println("secondi: "+seconds);
 		System.out.println("minuti: "+minutes);
-		
 		
 		counts.saveAsTextFile("output"); // Settare il path dei file di output
 	}
