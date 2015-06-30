@@ -1,6 +1,7 @@
 package fusionSpark;
 
 import java.util.ArrayList;
+
 import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
@@ -36,7 +37,10 @@ public class LuogoMeteoFestivoArrivo {
 		JavaRDD<String> textFile = spark.textFile(logFile);
 
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
+			int i = 0;
 			public Iterable<String> call(String line) { 
+				i++;
+				System.out.println("LAP "+i);
 				String festa;
 				String[] arrayLine = Parser.oneLineToArray(line);
 				System.out.println("CITTA': "+arrayLine[9]);

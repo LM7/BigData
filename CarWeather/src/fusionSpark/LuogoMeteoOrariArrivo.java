@@ -37,7 +37,10 @@ public class LuogoMeteoOrariArrivo {
 		JavaRDD<String> textFile = spark.textFile(logFile);
 
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
+			int i = 0;
 			public Iterable<String> call(String line) { 
+				i++;
+				System.out.println("LAP "+i);
 				int orario;
 				String[] arrayLine = Parser.oneLineToArray(line);
 				System.out.println("CITTA': "+arrayLine[9]);

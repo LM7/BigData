@@ -38,10 +38,11 @@ public class DataLuogoMeteoArrivo {
 		JavaRDD<String> textFile = spark.textFile(logFile);
 
 		JavaRDD<String> words = textFile.flatMap(new FlatMapFunction<String, String>() {
+			int i=0;
 			public Iterable<String> call(String line) { 
+				i++;
+				System.out.println("LAP "+i);
 				String[] arrayLine = Parser.oneLineToArray(line);
-				System.out.println("CITTA': "+arrayLine[9]);
-				System.out.println("DATA: "+arrayLine[6]);
 				String[] datiMeteo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
 				if (datiMeteo == null || datiMeteo[0].equals("") ) {
 					datiMeteo = new String[1];
