@@ -1,9 +1,0 @@
-
-0304,nubi sparse,pioggia
-0302,nubi sparse,pioggia
-0301,poco nuvoloso,nessuno
-0308,poco nuvoloso,nessuno
-0314,poco nuvoloso,nessuno
-0322,coperto,nessunopioggia
-0307,poco nuvoloso,nessuno
-0313,poco nuvoloso,nessuno
