@@ -1,0 +1,3 @@
+
+0313,poco nuvoloso,nessuno
+0316,poco nuvoloso,nessunopioggia

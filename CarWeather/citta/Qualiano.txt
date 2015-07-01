@@ -1,0 +1,5 @@
+
+0326,poco nuvoloso,nessuno
+0328,poco nuvoloso,nessuno
+0411,poco nuvoloso,nessuno
+0425,poco nuvoloso,nessuno

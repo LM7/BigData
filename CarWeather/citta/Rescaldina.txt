@@ -1,0 +1,3 @@
+
+0427,pioggia debole,nessunopioggia
+0408,sereno,nessuno

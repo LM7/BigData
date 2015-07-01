@@ -1,0 +1,8 @@
+
+0424,poco nuvoloso,nessuno
+0406,poco nuvoloso,nessunopioggia nebbia
+0407,sereno,nessuno
+0502,poco nuvoloso,nessunopioggia nebbia
+0403,poco nuvoloso,nessuno
+0413,sereno,nessunonebbia
+0414,poco nuvoloso,nessuno

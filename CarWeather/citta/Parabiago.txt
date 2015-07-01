@@ -1,0 +1,4 @@
+
+0410,sereno,nessuno
+0413,sereno,nessunonebbia
+0427,pioggia debole,nessunopioggia

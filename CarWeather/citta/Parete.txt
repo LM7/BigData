@@ -1,0 +1,4 @@
+
+0325,coperto,nessunopioggia
+0430,nubi sparse,nessuno
+0412,poco nuvoloso,nessunonebbia

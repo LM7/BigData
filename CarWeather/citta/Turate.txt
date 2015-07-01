@@ -1,0 +1,3 @@
+
+0404,coperto,nessunopioggia
+0428,poco nuvoloso,nessunopioggia

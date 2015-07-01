@@ -1,0 +1,9 @@
+
+0327,poco nuvoloso,nessuno
+0328,poco nuvoloso,nessuno
+0413,sereno,nessuno
+0414,nubi sparse,nessuno
+0415,poco nuvoloso,nessuno
+0502,poco nuvoloso,nessuno
+0503,sereno,nessuno
+0408,poco nuvoloso,nessuno

@@ -1,0 +1,4 @@
+
+0425,nubi sparse,nessuno
+0502,poco nuvoloso,nessunopioggia nebbia
+0402,sereno,nessuno

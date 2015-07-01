@@ -1,0 +1,4 @@
+
+0408,sereno,nessuno
+0419,poco nuvoloso,nessuno
+0429,nubi sparse,nessunopioggia

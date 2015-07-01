@@ -1,0 +1,3 @@
+
+0328,sereno,nessuno
+0502,poco nuvoloso,nessunopioggia nebbia

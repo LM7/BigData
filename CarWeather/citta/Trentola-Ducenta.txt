@@ -1,0 +1,4 @@
+
+0401,nubi sparse,nessunonebbia
+0427,coperto,nessunopioggia temporale
+0419,poco nuvoloso,nessuno
