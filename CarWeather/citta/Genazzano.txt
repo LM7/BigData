@@ -32,3 +32,7 @@
 0305,nubi sparse,nessunopioggia
 0424,nubi sparse,nessuno
 0419,,nessuno
+0307,,nessuno
+0309,poco nuvoloso,nessuno
+0322,,nessuno
+0304,nubi sparse,nessunopioggia

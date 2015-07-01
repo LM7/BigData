@@ -62,3 +62,4 @@
 0420,poco nuvoloso,nessuno
 0426,poco nuvoloso,nessuno
 0328,,nessuno
+0405,,nessuno

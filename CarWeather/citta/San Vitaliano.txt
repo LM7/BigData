@@ -38,3 +38,4 @@
 0410,sereno,nessuno
 0421,sereno,nessuno
 0428,pioggia debole,pioggia temporale
+0501,poco nuvoloso,nessuno

@@ -36,3 +36,6 @@
 0502,poco nuvoloso,nessuno
 0411,poco nuvoloso,nessuno
 0421,sereno,nessuno
+0329,sereno,nessuno
+0501,poco nuvoloso,nessuno
+0324,nubi sparse,nessuno

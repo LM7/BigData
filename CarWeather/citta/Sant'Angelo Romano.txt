@@ -18,3 +18,11 @@
 0412,,nessuno
 0422,sereno,nessuno
 0502,,nessuno
+0503,,nessuno
+0303,poco nuvoloso,nessuno
+0306,sereno,nessuno
+0313,poco nuvoloso,nessuno
+0314,,nessuno
+0316,poco nuvoloso,nessunopioggia
+0403,poco nuvoloso,nessuno
+0428,coperto,nessunopioggia

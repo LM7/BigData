@@ -12,3 +12,6 @@
 0502,nubi sparse,nessunopioggia nebbia
 0411,poco nuvoloso,nessuno
 0413,sereno,nessuno
+0501,coperto,nessunopioggia
+0405,coperto,nessunopioggia temporale
+0426,coperto,nessunopioggia

@@ -35,3 +35,7 @@
 0426,,nessuno
 0421,sereno,nessuno
 0329,,nessuno
+0324,pioggia debole,nessunopioggia
+0331,poco nuvoloso,nessuno
+0401,sereno,nessuno
+0424,poco nuvoloso,nessuno

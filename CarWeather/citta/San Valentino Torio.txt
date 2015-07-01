@@ -30,3 +30,12 @@
 0501,sereno,nessuno
 0502,poco nuvoloso,nessuno
 0503,sereno,nessuno
+0326,nubi sparse,nessuno
+0330,nubi sparse,nessunopioggia
+0408,poco nuvoloso,nessuno
+0412,sereno,nessuno
+0413,sereno,nessuno
+0417,poco nuvoloso,nessuno
+0420,nubi sparse,nessuno
+0422,sereno,nessuno
+0429,coperto,nessuno

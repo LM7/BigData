@@ -30,3 +30,4 @@
 0410,sereno,nessuno
 0415,sereno,nessuno
 0430,coperto,nessunopioggia temporale
+0427,pioggia debole,nessunopioggia

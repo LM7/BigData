@@ -15,3 +15,8 @@
 0402,,nessuno
 0401,,nessuno
 0428,,nessuno
+0419,,nessuno
+0414,,nessuno
+0409,,nessuno
+0427,,nessuno
+0429,,nessuno

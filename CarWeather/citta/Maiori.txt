@@ -24,3 +24,4 @@
 0428,poco nuvoloso,nessunopioggia temporale
 0429,coperto,nessuno
 0430,poco nuvoloso,nessuno
+0416,poco nuvoloso,nessuno

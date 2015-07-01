@@ -39,3 +39,4 @@
 0502,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
 0325,coperto,nessunopioggia
+0324,nubi sparse,nessuno

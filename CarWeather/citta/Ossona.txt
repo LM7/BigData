@@ -19,3 +19,13 @@
 0427,pioggia,nessunopioggia
 0502,,nessuno
 0423,poco nuvoloso,nessunonebbia
+0408,sereno,nessuno
+0413,sereno,nessunonebbia
+0414,poco nuvoloso,nessuno
+0415,sereno,nessuno
+0422,sereno,nessuno
+0425,,nessuno
+0426,,nessuno
+0429,coperto,nessunopioggia
+0430,nubi sparse,nessuno
+0501,coperto,nessunopioggia

@@ -36,3 +36,5 @@
 0428,coperto,nessunopioggia
 0502,nubi sparse,nessunopioggia nebbia
 0424,poco nuvoloso,nessuno
+0501,coperto,nessunopioggia
+0417,coperto,nessunopioggia

@@ -1,2 +1,8 @@
 
 0429,nubi sparse,nessunopioggia
+0325,pioggia debole,nessunopioggia
+0408,sereno,nessuno
+0417,nubi sparse,nessunopioggia
+0423,sereno,nessuno
+0424,poco nuvoloso,nessuno
+0430,coperto,nessunopioggia temporale

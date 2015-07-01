@@ -37,3 +37,4 @@
 0421,sereno,nessuno
 0409,poco nuvoloso,nessuno
 0405,coperto,nessunopioggia temporale
+0501,poco nuvoloso,nessuno

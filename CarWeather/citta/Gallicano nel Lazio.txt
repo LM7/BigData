@@ -18,3 +18,17 @@
 0405,,nessuno
 0315,,nessuno
 0331,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno
+0408,poco nuvoloso,nessuno
+0312,poco nuvoloso,nessuno
+0314,,nessuno
+0325,sereno,nessunopioggia
+0330,nubi sparse,nessuno
+0402,poco nuvoloso,nessuno
+0406,,nessuno
+0410,poco nuvoloso,nessuno
+0413,poco nuvoloso,nessuno
+0419,,nessuno
+0420,poco nuvoloso,nessuno
+0424,nubi sparse,nessuno
+0429,nubi sparse,nessuno
