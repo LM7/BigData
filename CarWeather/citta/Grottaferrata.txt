@@ -1,0 +1,5 @@
+
+0302,nubi sparse,nessunopioggia
+0304,nubi sparse,nessunopioggia
+0305,nubi sparse,nessunopioggia
+0418,nubi sparse,nessuno

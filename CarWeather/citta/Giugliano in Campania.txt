@@ -1,0 +1,4 @@
+
+0412,poco nuvoloso,nessuno
+0426,poco nuvoloso,nessuno
+0429,nubi sparse,nessunonebbia

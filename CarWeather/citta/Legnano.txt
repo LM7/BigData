@@ -1,0 +1,8 @@
+
+0419,nubi sparse,nessuno
+0330,nubi sparse,nessunonebbia
+0408,sereno,nessuno
+0412,sereno,nessuno
+0422,sereno,nessuno
+0428,nubi sparse,nessunopioggia
+0502,pioggia e schiarite,nessunopioggia nebbia

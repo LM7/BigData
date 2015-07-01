@@ -1,0 +1,5 @@
+
+0301,poco nuvoloso,nessuno
+0406,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno
+0401,poco nuvoloso,nessuno

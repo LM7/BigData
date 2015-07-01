@@ -1,0 +1,11 @@
+
+0406,poco nuvoloso,nessunopioggia nebbia
+0407,sereno,nessuno
+0325,pioggia debole,nessunopioggia
+0414,poco nuvoloso,nessuno
+0420,nebbia,nessunonebbia
+0429,nubi sparse,nessunopioggia
+0430,coperto,nessunopioggia temporale
+0423,sereno,nessuno
+0328,sereno,nessuno
+0404,coperto,nessunopioggia

@@ -1,0 +1,7 @@
+
+0325,pioggia debole,nessunopioggia
+0402,poco nuvoloso,nessuno
+0407,poco nuvoloso,nessuno
+0408,sereno,nessuno
+0409,sereno,nessuno
+0314,poco nuvoloso,nessuno

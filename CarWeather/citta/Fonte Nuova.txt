@@ -1,0 +1,4 @@
+
+0301,,nessuno
+0311,poco nuvoloso,nessuno
+0404,,nessuno

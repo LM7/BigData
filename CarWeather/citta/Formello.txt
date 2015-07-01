@@ -1,0 +1,3 @@
+
+0319,poco nuvoloso,nessuno
+0325,sereno,nessunopioggia

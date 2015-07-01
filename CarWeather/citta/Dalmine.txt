@@ -1,0 +1,4 @@
+
+0424,poco nuvoloso,nessuno
+0416,nubi sparse,nessunopioggia
+0329,sereno,nessuno
