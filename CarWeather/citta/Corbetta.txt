@@ -18,3 +18,5 @@
 0503,coperto,nessunopioggia
 0330,poco nuvoloso,nessuno
 0407,sereno,nessuno
+0328,sereno,nessuno
+0408,sereno,nessuno

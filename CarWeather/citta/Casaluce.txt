@@ -18,3 +18,5 @@
 0423,nubi sparse,nessuno
 0425,poco nuvoloso,nessuno
 0430,nubi sparse,nessuno
+0502,poco nuvoloso,nessuno
+0409,poco nuvoloso,nessuno

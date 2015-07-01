@@ -4,3 +4,5 @@
 0417,nubi sparse,nessunopioggia
 0424,poco nuvoloso,nessuno
 0428,poco nuvoloso,nessunopioggia
+0410,sereno,nessuno
+0414,poco nuvoloso,nessuno

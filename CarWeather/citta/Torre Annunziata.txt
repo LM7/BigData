@@ -7,3 +7,15 @@
 0502,poco nuvoloso,nessuno
 0503,sereno,nessuno
 0408,poco nuvoloso,nessuno
+0417,poco nuvoloso,nessuno
+0326,nubi sparse,nessuno
+0330,nubi sparse,nessunopioggia
+0403,poco nuvoloso,nessuno
+0407,poco nuvoloso,nessuno
+0409,nubi sparse,nessuno
+0410,sereno,nessuno
+0416,poco nuvoloso,nessuno
+0420,nubi sparse,nessuno
+0424,poco nuvoloso,nessuno
+0427,poco nuvoloso,nessunopioggia
+0428,poco nuvoloso,nessunopioggia temporale

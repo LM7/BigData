@@ -1,2 +1,4 @@
 
 0418,nubi sparse,nessuno
+0406,poco nuvoloso,nessuno
+0502,poco nuvoloso,nessuno

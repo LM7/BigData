@@ -21,3 +21,8 @@
 0329,poco nuvoloso,nessuno
 0405,coperto,nessunopioggia
 0406,coperto,nessunopioggia
+0301,poco nuvoloso,nessuno
+0309,poco nuvoloso,nessuno
+0310,poco nuvoloso,nessuno
+0316,sereno,nessunopioggia
+0318,poco nuvoloso,nessuno

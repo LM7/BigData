@@ -2,3 +2,8 @@
 0312,poco nuvoloso,nessuno
 0409,sereno,nessuno
 0402,sereno,nessuno
+0406,poco nuvoloso,nessuno
+0302,pioggia debole,nessunopioggia
+0308,poco nuvoloso,nessuno
+0322,coperto,nessunopioggia
+0323,coperto,nessuno

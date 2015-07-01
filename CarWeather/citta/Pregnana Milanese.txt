@@ -5,3 +5,10 @@
 0407,sereno,nessuno
 0409,sereno,nessuno
 0430,coperto,nessunopioggia temporale
+0324,coperto,nessunopioggia
+0326,pioggia e schiarite,nessunopioggia
+0329,poco nuvoloso,nessuno
+0415,sereno,nessuno
+0416,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno
+0422,sereno,nessuno

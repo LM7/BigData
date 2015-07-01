@@ -5,3 +5,26 @@
 0408,sereno,nessuno
 0409,sereno,nessuno
 0314,poco nuvoloso,nessuno
+0303,nebbia,nessunonebbia
+0304,pioggia,nessunopioggia nebbia
+0305,sereno,nessunopioggia
+0306,sereno,nessuno
+0307,sereno,nessuno
+0308,sereno,nessuno
+0309,poco nuvoloso,nessuno
+0310,sereno,nessuno
+0311,poco nuvoloso,nessuno
+0312,poco nuvoloso,nessuno
+0313,sereno,nessuno
+0315,sereno,nessunopioggia
+0317,pioggia debole,nessunopioggia
+0318,poco nuvoloso,nessuno
+0319,nebbia,nessunonebbia
+0320,poco nuvoloso,nessuno
+0321,poco nuvoloso,nessuno
+0323,poco nuvoloso,nessuno
+0501,poco nuvoloso,nessunopioggia
+0502,poco nuvoloso,nessunopioggia
+0411,poco nuvoloso,nessuno
+0328,poco nuvoloso,nessuno
+0405,coperto,nessunopioggia temporale

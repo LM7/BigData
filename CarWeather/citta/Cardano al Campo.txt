@@ -10,3 +10,4 @@
 0423,poco nuvoloso,nessunonebbia
 0429,coperto,nessunopioggia
 0501,coperto,nessunopioggia
+0410,sereno,nessuno

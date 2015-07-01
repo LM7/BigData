@@ -1,2 +1,4 @@
 
 0409,sereno,nessuno
+0402,sereno,nessuno
+0411,poco nuvoloso,nessuno

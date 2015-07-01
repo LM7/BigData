@@ -1,3 +1,6 @@
 
 0427,pioggia debole,nessunopioggia
 0408,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0419,nubi sparse,nessuno
+0413,sereno,nessuno

@@ -5,3 +5,6 @@
 0420,nubi sparse,nessuno
 0426,poco nuvoloso,nessuno
 0502,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0501,sereno,nessuno
+0425,sereno,nessuno

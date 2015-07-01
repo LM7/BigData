@@ -16,3 +16,7 @@
 0410,sereno,nessuno
 0421,sereno,nessuno
 0427,pioggia,nessunopioggia
+0413,sereno,nessunonebbia
+0416,poco nuvoloso,nessuno
+0430,nubi sparse,nessuno
+0406,,nessuno

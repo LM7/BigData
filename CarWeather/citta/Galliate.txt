@@ -5,3 +5,6 @@
 0325,coperto,nessunopioggia
 0407,sereno,nessuno
 0429,coperto,nessunopioggia
+0404,,nessuno
+0503,,nessuno
+0411,,nessuno

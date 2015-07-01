@@ -30,3 +30,4 @@
 0424,poco nuvoloso,nessuno
 0427,pioggia,nessunopioggia
 0502,,nessuno
+0409,sereno,nessuno

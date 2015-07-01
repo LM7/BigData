@@ -1,2 +1,4 @@
 
 0314,poco nuvoloso,nessuno
+0302,coperto,nessunopioggia
+0310,poco nuvoloso,nessuno

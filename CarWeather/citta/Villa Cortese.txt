@@ -1,2 +1,9 @@
 
 0424,poco nuvoloso,nessuno
+0325,coperto,nessunopioggia
+0410,sereno,nessuno
+0417,coperto,nessunopioggia
+0419,,nessuno
+0423,poco nuvoloso,nessunonebbia
+0427,pioggia,nessunopioggia
+0503,,nessuno

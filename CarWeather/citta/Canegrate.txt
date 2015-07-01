@@ -2,3 +2,10 @@
 0417,nubi sparse,nessunopioggia
 0330,poco nuvoloso,nessuno
 0408,sereno,nessuno
+0327,nebbia,nessunonebbia
+0331,poco nuvoloso,nessuno
+0401,sereno,nessuno
+0409,sereno,nessuno
+0414,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0428,poco nuvoloso,nessunopioggia

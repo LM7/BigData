@@ -1,3 +1,10 @@
 
 0417,coperto,nessunopioggia
 0426,,nessuno
+0401,sereno,nessuno
+0413,sereno,nessunonebbia
+0416,poco nuvoloso,nessuno
+0421,sereno,nessuno
+0412,,nessuno
+0405,,nessuno
+0329,,nessuno

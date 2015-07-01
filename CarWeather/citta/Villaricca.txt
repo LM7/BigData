@@ -18,3 +18,7 @@
 0425,poco nuvoloso,nessuno
 0426,poco nuvoloso,nessuno
 0501,poco nuvoloso,nessuno
+0402,poco nuvoloso,nessuno
+0404,nubi sparse,nessunopioggia
+0410,sereno,nessuno
+0412,poco nuvoloso,nessuno

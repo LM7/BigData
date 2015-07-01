@@ -27,3 +27,6 @@
 0502,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
 0313,poco nuvoloso,nessuno
+0309,poco nuvoloso,nessuno
+0304,nubi sparse,nessunopioggia
+0319,poco nuvoloso,nessuno

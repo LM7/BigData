@@ -3,3 +3,4 @@
 0421,sereno,nessuno
 0424,poco nuvoloso,nessuno
 0427,pioggia debole,nessunopioggia
+0501,coperto,nessunopioggia

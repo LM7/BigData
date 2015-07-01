@@ -1,3 +1,5 @@
 
 0402,sereno,nessuno
 0403,poco nuvoloso,nessuno
+0406,poco nuvoloso,nessunopioggia nebbia
+0430,coperto,nessunopioggia temporale

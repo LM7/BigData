@@ -24,3 +24,7 @@
 0430,poco nuvoloso,nessuno
 0401,poco nuvoloso,nessunonebbia
 0501,poco nuvoloso,nessunopioggia
+0308,sereno,nessuno
+0405,coperto,nessunopioggia temporale
+0408,sereno,nessuno
+0411,poco nuvoloso,nessuno

@@ -13,3 +13,15 @@
 0328,poco nuvoloso,nessuno
 0419,poco nuvoloso,nessuno
 0420,sereno,nessuno
+0408,nubi sparse,nessuno
+0324,nubi sparse,nessuno
+0326,poco nuvoloso,nessuno
+0410,sereno,nessuno
+0423,nubi sparse,nessuno
+0502,poco nuvoloso,nessuno
+0404,nubi sparse,nessunopioggia
+0406,coperto,nessuno
+0415,nubi sparse,nessuno
+0422,sereno,nessuno
+0428,pioggia debole,nessunopioggia temporale
+0425,poco nuvoloso,nessuno

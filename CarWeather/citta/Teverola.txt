@@ -8,3 +8,8 @@
 0325,coperto,nessunopioggia
 0419,poco nuvoloso,nessuno
 0420,poco nuvoloso,nessuno
+0428,nubi sparse,nessunopioggia temporale
+0407,nubi sparse,nessuno
+0404,nubi sparse,nessunopioggia
+0409,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno

@@ -2,3 +2,4 @@
 0410,sereno,nessuno
 0416,poco nuvoloso,nessuno
 0417,nubi sparse,nessunopioggia
+0418,nebbia,nessunopioggia temporale

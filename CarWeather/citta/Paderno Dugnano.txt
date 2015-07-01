@@ -16,3 +16,4 @@
 0429,nubi sparse,nessunopioggia
 0430,coperto,nessunopioggia temporale
 0503,coperto,nessunopioggia
+0404,coperto,nessunopioggia

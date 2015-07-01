@@ -20,3 +20,10 @@
 0422,sereno,nessuno
 0426,coperto,nessunopioggia
 0428,poco nuvoloso,nessunopioggia
+0331,poco nuvoloso,nessuno
+0402,sereno,nessuno
+0424,poco nuvoloso,nessuno
+0412,sereno,nessuno
+0328,sereno,nessuno
+0330,poco nuvoloso,nessuno
+0427,pioggia debole,nessunopioggia

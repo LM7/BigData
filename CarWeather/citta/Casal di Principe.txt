@@ -3,3 +3,12 @@
 0328,poco nuvoloso,nessunopioggia
 0418,nubi sparse,nessuno
 0502,poco nuvoloso,nessuno
+0414,poco nuvoloso,nessuno
+0415,poco nuvoloso,nessunonebbia
+0421,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0428,nubi sparse,nessunopioggia temporale
+0429,nubi sparse,nessuno
+0430,nubi sparse,nessuno
+0417,nebbia,nessunopioggia nebbia
+0423,nubi sparse,nessuno

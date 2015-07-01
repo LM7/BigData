@@ -56,3 +56,4 @@
 0418,,nessuno
 0426,poco nuvoloso,nessuno
 0427,pioggia debole,nessunopioggia
+0309,poco nuvoloso,nessuno

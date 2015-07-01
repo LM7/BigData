@@ -1,3 +1,6 @@
 
 0324,coperto,nessunopioggia
 0328,sereno,nessuno
+0408,sereno,nessuno
+0430,coperto,nessunopioggia temporale
+0414,poco nuvoloso,nessuno

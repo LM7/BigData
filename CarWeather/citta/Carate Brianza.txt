@@ -6,3 +6,12 @@
 0420,nebbia,nessunonebbia
 0404,coperto,nessunopioggia
 0410,sereno,nessuno
+0408,sereno,nessuno
+0423,sereno,nessuno
+0429,nubi sparse,nessunopioggia
+0328,sereno,nessuno
+0502,poco nuvoloso,nessunopioggia nebbia
+0409,sereno,nessuno
+0412,sereno,nessuno
+0415,sereno,nessuno
+0417,nubi sparse,nessunopioggia

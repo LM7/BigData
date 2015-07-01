@@ -1,2 +1,3 @@
 
 0329,poco nuvoloso,nessuno
+0423,nubi sparse,nessuno

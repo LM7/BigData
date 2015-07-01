@@ -1,2 +1,5 @@
 
 0412,poco nuvoloso,nessunonebbia
+0502,poco nuvoloso,nessuno
+0410,sereno,nessuno
+0330,poco nuvoloso,nessunopioggia

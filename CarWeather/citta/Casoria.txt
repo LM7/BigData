@@ -26,3 +26,15 @@
 0430,nubi sparse,nessuno
 0502,poco nuvoloso,nessuno
 0330,nubi sparse,nessunopioggia
+0418,nubi sparse,nessuno
+0405,coperto,nessunopioggia temporale
+0327,coperto,nessuno
+0331,nubi sparse,nessuno
+0420,sereno,nessuno
+0421,sereno,nessuno
+0423,nubi sparse,nessuno
+0328,poco nuvoloso,nessuno
+0329,sereno,nessuno
+0406,coperto,nessuno
+0419,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno

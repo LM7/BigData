@@ -30,3 +30,7 @@
 0417,poco nuvoloso,nessunopioggia
 0423,poco nuvoloso,nessuno
 0429,poco nuvoloso,nessuno
+0311,poco nuvoloso,nessuno
+0322,coperto,nessunopioggia
+0323,coperto,nessuno
+0419,poco nuvoloso,nessuno

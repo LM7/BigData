@@ -14,3 +14,9 @@
 0416,poco nuvoloso,nessuno
 0423,poco nuvoloso,nessuno
 0424,nubi sparse,nessuno
+0316,poco nuvoloso,nessunopioggia
+0501,,nessuno
+0318,nubi sparse,nessuno
+0503,,nessuno
+0320,poco nuvoloso,nessuno
+0418,,nessuno

@@ -1,3 +1,4 @@
 
 0303,poco nuvoloso,nessuno
 0413,poco nuvoloso,nessuno
+0402,poco nuvoloso,nessuno

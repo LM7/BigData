@@ -1,3 +1,6 @@
 
 0412,,nessuno
 0324,pioggia debole,nessunopioggia
+0325,coperto,nessunopioggia
+0422,sereno,nessuno
+0423,poco nuvoloso,nessunonebbia

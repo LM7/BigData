@@ -1,2 +1,12 @@
 
 0502,,nessuno
+0422,sereno,nessuno
+0423,poco nuvoloso,nessunonebbia
+0326,nubi sparse,nessunopioggia
+0404,,nessuno
+0430,nubi sparse,nessuno
+0503,,nessuno
+0411,,nessuno
+0324,pioggia debole,nessunopioggia
+0410,sereno,nessuno
+0420,sereno,nessunonebbia
