@@ -1,5 +1,7 @@
 package takeMeteo;
 import java.io.BufferedReader;
+import java.io.FileReader;
+import java.io.IOException;
 import java.io.InputStreamReader;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -10,7 +12,7 @@ import file.File;
 
 
 public class ilMeteo {
-	
+
 	public static String query(String citta,String data){
 		citta = citta.replaceAll(" ", "+");
 		String data_mese = data.substring(4, 6); 
@@ -48,7 +50,7 @@ public class ilMeteo {
 		//System.out.println("html "+html);
 		return html;
 	}
-	
+
 	//Inutile
 	public static String takeTable(String citta,String data){
 		String html = ilMeteo.query(citta,data);
@@ -61,7 +63,7 @@ public class ilMeteo {
 		}
 		return null;
 	}
-	
+
 	//[0]condizioni meteo, [1]fenomeni
 	public static String[] findMeteo(String citta,String data){
 		String results[] = File.takeFile(citta, data.substring(4, 8));
@@ -72,7 +74,7 @@ public class ilMeteo {
 			String fenomeni = results[1];
 			System.out.println("Condizioni meteo = "+condizioniMeteo);
 			System.out.println("Fenomeni = "+fenomeni);
-			*/
+			 */
 			return results;
 		}
 		String condizioniMeteo = "";
@@ -94,7 +96,7 @@ public class ilMeteo {
 		Pattern pattern_colonna = Pattern.compile(regex_colonna);
 		String regex_image_alt = "<img.*?alt=(.*?) style.*?>";
 		Pattern pattern_image_alt = Pattern.compile(regex_image_alt);
-		
+
 		Matcher matcher_table = pattern_table.matcher(html);
 		while(matcher_table.find()){
 			String table = matcher_table.group(1);
@@ -119,8 +121,8 @@ public class ilMeteo {
 							fenomeni += " "+ matcher_image_alt.group(1).replaceAll("\"", "").toLowerCase();
 					}
 				}
-				
-				
+
+
 				//Condizione Meteo
 				Matcher matcher_colonna_condizioneMeteo = pattern_colonna_condizioneMeteo.matcher(riga);
 				if (matcher_colonna_condizioneMeteo.find()){
@@ -131,51 +133,46 @@ public class ilMeteo {
 						condizioniMeteo = matcher_colonna.group(1).toLowerCase();
 					}
 				}
-				
+
 			}
 		}
 		//System.out.println("Condizioni meteo = "+condizioniMeteo);
 		//System.out.println("Fenomeni = "+fenomeni);
-		
+
 		File.createFile(citta, data.substring(4, 8), new String[]{condizioniMeteo,fenomeni});
 		return new String[]{condizioniMeteo,fenomeni};
-		
+
 	}
-	
-	public static void main(String[] args) {
+
+	public static void main(String[] args) throws IOException {
 		//ilMeteo.takeTable("Roma", "2015031584598");
-		
-		String[] risposta = ilMeteo.findMeteo("Roma", "20150301");
-		System.out.println("risposta = "+risposta[0]+","+risposta[1]);
-		
-		System.out.println();
-		
-		risposta = ilMeteo.findMeteo("Roma", "20150301");
-		System.out.println("risposta = "+risposta[0]+","+risposta[1]);
-		
+
+		//String[] risposta = ilMeteo.findMeteo("Roma", "20150301");
+		//System.out.println("risposta = "+risposta[0]+","+risposta[1]);
+
+		//System.out.println();
+
+		//risposta = ilMeteo.findMeteo("Roma", "20150301");
+		//System.out.println("risposta = "+risposta[0]+","+risposta[1]);
+
 		//String risposta = ilMeteo.findMeteo("Roma", "2015031584598");
 		//System.out.println("risposta = "+risposta);
-		
-		
+
+
 		BufferedReader reader = new BufferedReader(new FileReader("DatasetMobility.txt"));
 		String line = reader.readLine();
-		int i;
+		int i = 0;
 		while (line!=null){
 			String[] splits = line.split(",");
 			String[] res = ilMeteo.findMeteo(splits[8],splits[11]);
-			System.out.println(res[0]);
 			i++;
-			System.out.println(i);
-			}
-			/*for (int k = 0; k < 13; k++) {
-				System.out.println(appoggio[k] + " "+k);
-			}*/
-			datiFinali.add(appoggio);
+			System.out.println("CITTA' "+res[0]+" ; numero "+i);
 			line = reader.readLine();
 		}
-		reader.close();
 		
-		System.out.println("DONE");	}
+		reader.close();
 
-
+		System.out.println("DONE");	
+	}
+	
 }
