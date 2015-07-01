@@ -1,0 +1,11 @@
+
+0329,poco nuvoloso,nessuno
+0331,poco nuvoloso,nessuno
+0408,sereno,nessuno
+0409,sereno,nessuno
+0413,sereno,nessunonebbia
+0425,nubi sparse,nessuno
+0503,coperto,pioggia
+0406,poco nuvoloso,pioggia nebbia
+0429,nubi sparse,nessunopioggia
+0422,sereno,nessuno
