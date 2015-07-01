@@ -31,3 +31,4 @@
 0402,sereno,nessuno
 0418,nebbia,nessunopioggia temporale
 0427,pioggia debole,nessunopioggia
+0425,nubi sparse,nessuno

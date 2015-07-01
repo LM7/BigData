@@ -3,3 +3,5 @@
 0412,sereno,nessuno
 0409,sereno,nessuno
 0422,sereno,nessuno
+0328,sereno,nessuno
+0411,poco nuvoloso,nessuno

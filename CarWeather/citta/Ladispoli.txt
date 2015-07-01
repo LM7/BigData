@@ -28,3 +28,11 @@
 0411,poco nuvoloso,nessuno
 0328,poco nuvoloso,nessuno
 0405,coperto,nessunopioggia temporale
+0326,poco nuvoloso,nessuno
+0329,sereno,nessuno
+0413,poco nuvoloso,nessuno
+0415,nebbia,nessunonebbia
+0416,nebbia,nessunonebbia
+0417,poco nuvoloso,nessunopioggia
+0429,poco nuvoloso,nessunonebbia
+0503,sereno,nessuno

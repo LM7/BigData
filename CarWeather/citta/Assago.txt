@@ -8,3 +8,10 @@
 0413,sereno,nessunonebbia
 0420,nebbia,nessunonebbia
 0418,nebbia,nessunopioggia temporale
+0404,coperto,nessunopioggia
+0411,poco nuvoloso,nessuno
+0423,sereno,nessuno
+0425,nubi sparse,nessuno
+0325,pioggia debole,nessunopioggia
+0502,poco nuvoloso,nessunopioggia nebbia
+0419,poco nuvoloso,nessuno

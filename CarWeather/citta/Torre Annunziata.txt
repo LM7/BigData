@@ -19,3 +19,6 @@
 0424,poco nuvoloso,nessuno
 0427,poco nuvoloso,nessunopioggia
 0428,poco nuvoloso,nessunopioggia temporale
+0406,poco nuvoloso,nessuno
+0419,nubi sparse,nessuno
+0422,sereno,nessuno

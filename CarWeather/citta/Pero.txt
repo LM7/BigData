@@ -19,3 +19,4 @@
 0426,coperto,nessunopioggia
 0427,pioggia debole,nessunopioggia
 0428,poco nuvoloso,nessunopioggia
+0326,pioggia e schiarite,nessunopioggia

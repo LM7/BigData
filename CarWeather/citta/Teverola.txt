@@ -16,3 +16,6 @@
 0412,poco nuvoloso,nessunonebbia
 0403,nubi sparse,nessuno
 0327,temporale,nessunotemporale
+0324,poco nuvoloso,nessunopioggia
+0411,poco nuvoloso,nessuno
+0502,poco nuvoloso,nessuno

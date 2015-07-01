@@ -11,3 +11,6 @@
 0426,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
 0324,nubi sparse,nessuno
+0403,coperto,nessuno
+0429,nubi sparse,nessunonebbia
+0420,sereno,nessuno

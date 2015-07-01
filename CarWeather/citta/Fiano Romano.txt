@@ -29,3 +29,5 @@
 0426,poco nuvoloso,nessuno
 0307,,nessuno
 0321,,nessuno
+0310,poco nuvoloso,nessuno
+0405,,nessuno

@@ -31,3 +31,5 @@
 0425,nubi sparse,nessuno
 0426,coperto,nessunopioggia
 0428,poco nuvoloso,nessunopioggia
+0414,poco nuvoloso,nessuno
+0423,sereno,nessuno

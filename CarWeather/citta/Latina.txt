@@ -4,3 +4,4 @@
 0310,poco nuvoloso,nessuno
 0318,poco nuvoloso,nessuno
 0501,poco nuvoloso,nessuno
+0322,nubi sparse,nessuno

@@ -43,3 +43,5 @@
 0421,poco nuvoloso,nessuno
 0427,pioggia e schiarite,nessunopioggia
 0428,pioggia e schiarite,nessunopioggia
+0407,poco nuvoloso,nessuno
+0416,nebbia,nessunonebbia

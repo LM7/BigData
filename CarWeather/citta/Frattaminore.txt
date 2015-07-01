@@ -14,3 +14,6 @@
 0327,coperto,nessuno
 0407,nubi sparse,nessuno
 0416,poco nuvoloso,nessuno
+0424,nubi sparse,nessuno
+0409,poco nuvoloso,nessuno
+0429,nubi sparse,nessunonebbia

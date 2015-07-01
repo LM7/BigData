@@ -25,3 +25,7 @@
 0420,sereno,nessunonebbia
 0327,sereno,nessunonebbia
 0414,sereno,nessuno
+0410,sereno,nessuno
+0417,nubi sparse,nessunopioggia nebbia
+0423,poco nuvoloso,nessuno
+0425,coperto,nessunopioggia

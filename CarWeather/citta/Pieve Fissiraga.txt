@@ -4,3 +4,5 @@
 0429,,nessuno
 0411,,nessuno
 0401,,nessuno
+0415,,nessuno
+0502,,nessuno

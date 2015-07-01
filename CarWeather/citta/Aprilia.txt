@@ -36,3 +36,8 @@
 0428,pioggia debole,nessunopioggia
 0429,poco nuvoloso,nessuno
 0430,nubi sparse,nessuno
+0303,poco nuvoloso,nessunonebbia
+0306,sereno,nessuno
+0310,poco nuvoloso,nessuno
+0316,coperto,nessunopioggia
+0418,nubi sparse,nessuno

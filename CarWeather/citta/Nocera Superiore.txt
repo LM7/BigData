@@ -3,3 +3,4 @@
 0407,poco nuvoloso,nessuno
 0411,sereno,nessuno
 0424,poco nuvoloso,nessuno
+0503,sereno,nessuno

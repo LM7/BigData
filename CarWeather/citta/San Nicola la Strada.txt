@@ -14,3 +14,6 @@
 0411,poco nuvoloso,nessuno
 0419,poco nuvoloso,nessuno
 0421,sereno,nessuno
+0325,coperto,nessunopioggia
+0413,sereno,nessuno
+0330,nubi sparse,nessunopioggia

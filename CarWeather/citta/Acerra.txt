@@ -11,3 +11,9 @@
 0330,nubi sparse,nessunopioggia
 0331,nubi sparse,nessuno
 0418,nubi sparse,nessuno
+0326,poco nuvoloso,nessuno
+0410,sereno,nessuno
+0425,poco nuvoloso,nessuno
+0401,coperto,nessuno
+0408,nubi sparse,nessuno
+0424,nubi sparse,nessuno

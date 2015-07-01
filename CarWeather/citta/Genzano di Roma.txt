@@ -49,3 +49,7 @@
 0421,poco nuvoloso,nessuno
 0424,poco nuvoloso,nessuno
 0428,pioggia e schiarite,nessunopioggia
+0303,poco nuvoloso,nessuno
+0310,poco nuvoloso,nessuno
+0407,poco nuvoloso,nessuno
+0408,poco nuvoloso,nessuno

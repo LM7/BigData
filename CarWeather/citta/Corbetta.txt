@@ -29,3 +29,5 @@
 0422,sereno,nessuno
 0428,poco nuvoloso,nessunopioggia
 0324,coperto,nessunopioggia
+0430,coperto,nessunopioggia temporale
+0501,pioggia debole,nessunopioggia

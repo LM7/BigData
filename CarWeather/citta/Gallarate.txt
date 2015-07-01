@@ -37,3 +37,4 @@
 0423,poco nuvoloso,nessuno
 0427,pioggia debole,nessunopioggia
 0429,nubi sparse,nessunopioggia temporale
+0403,nubi sparse,nessuno

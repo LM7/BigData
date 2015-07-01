@@ -1,3 +1,6 @@
 
 0329,poco nuvoloso,nessuno
 0423,nubi sparse,nessuno
+0410,sereno,nessuno
+0412,poco nuvoloso,nessunonebbia
+0414,poco nuvoloso,nessuno

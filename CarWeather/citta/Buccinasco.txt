@@ -6,3 +6,5 @@
 0326,pioggia e schiarite,nessunopioggia
 0409,sereno,nessuno
 0418,nebbia,nessunopioggia temporale
+0330,poco nuvoloso,nessuno
+0402,sereno,nessuno

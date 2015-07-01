@@ -59,3 +59,4 @@
 0430,nubi sparse,nessunopioggia
 0501,,nessuno
 0503,,nessuno
+0321,,nessuno

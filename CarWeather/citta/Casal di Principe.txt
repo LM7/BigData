@@ -22,3 +22,8 @@
 0426,nubi sparse,nessuno
 0427,coperto,nessunopioggia temporale
 0503,poco nuvoloso,nessunonebbia
+0403,nubi sparse,nessuno
+0405,nubi sparse,nessunopioggia temporale
+0409,poco nuvoloso,nessuno
+0412,poco nuvoloso,nessunonebbia
+0413,poco nuvoloso,nessuno

@@ -35,3 +35,4 @@
 0430,coperto,nessunopioggia temporale
 0501,pioggia debole,nessunopioggia
 0503,coperto,nessunopioggia
+0403,poco nuvoloso,nessuno

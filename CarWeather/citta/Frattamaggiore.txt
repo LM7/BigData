@@ -38,3 +38,4 @@
 0430,nubi sparse,nessuno
 0502,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
+0429,nubi sparse,nessunonebbia

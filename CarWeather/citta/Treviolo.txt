@@ -22,3 +22,4 @@
 0403,poco nuvoloso,nessuno
 0414,poco nuvoloso,nessuno
 0411,poco nuvoloso,nessuno
+0324,coperto,nessuno

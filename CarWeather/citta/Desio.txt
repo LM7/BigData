@@ -10,3 +10,4 @@
 0328,sereno,nessuno
 0404,coperto,nessunopioggia
 0428,poco nuvoloso,nessunopioggia
+0416,poco nuvoloso,nessuno

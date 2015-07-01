@@ -5,3 +5,7 @@
 0418,nebbia,nessunopioggia temporale
 0402,sereno,nessuno
 0331,poco nuvoloso,nessuno
+0421,sereno,nessuno
+0324,coperto,nessunopioggia
+0414,poco nuvoloso,nessuno
+0428,poco nuvoloso,nessunopioggia

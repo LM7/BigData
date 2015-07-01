@@ -35,3 +35,5 @@
 0420,sereno,nessunonebbia
 0423,poco nuvoloso,nessuno
 0426,pioggia debole,nessunopioggia
+0409,sereno,nessuno
+0430,coperto,nessunopioggia temporale

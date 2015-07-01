@@ -7,3 +7,11 @@
 0308,poco nuvoloso,nessuno
 0322,coperto,nessunopioggia
 0323,coperto,nessuno
+0318,poco nuvoloso,nessuno
+0320,sereno,nessuno
+0503,poco nuvoloso,nessuno
+0319,poco nuvoloso,nessuno
+0411,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0425,poco nuvoloso,nessuno
+0502,poco nuvoloso,nessuno

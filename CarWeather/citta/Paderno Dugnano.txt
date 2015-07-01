@@ -18,3 +18,5 @@
 0503,coperto,nessunopioggia
 0404,coperto,nessunopioggia
 0426,coperto,nessunopioggia
+0329,poco nuvoloso,nessuno
+0407,sereno,nessuno

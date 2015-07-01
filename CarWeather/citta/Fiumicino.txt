@@ -45,3 +45,11 @@
 0303,nebbia,nessunonebbia
 0309,poco nuvoloso,nessuno
 0421,sereno,nessuno
+0312,poco nuvoloso,nessuno
+0301,poco nuvoloso,nessunonebbia
+0315,sereno,nessunopioggia
+0320,poco nuvoloso,nessuno
+0322,pioggia e schiarite,nessunopioggia
+0307,sereno,nessuno
+0316,sereno,nessunopioggia
+0317,pioggia debole,nessunopioggia
