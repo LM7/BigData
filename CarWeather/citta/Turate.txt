@@ -4,3 +4,5 @@
 0330,poco nuvoloso,nessuno
 0503,coperto,nessunopioggia
 0405,pioggia debole,nessunopioggia
+0325,pioggia debole,nessunopioggia
+0424,poco nuvoloso,nessuno

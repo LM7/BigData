@@ -31,3 +31,7 @@
 0427,pioggia,nessunopioggia
 0502,,nessuno
 0409,sereno,nessuno
+0408,sereno,nessuno
+0418,,nessuno
+0405,,nessuno
+0407,sereno,nessuno

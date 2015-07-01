@@ -36,3 +36,6 @@
 0417,nubi sparse,nessunopioggia
 0422,sereno,nessuno
 0429,nubi sparse,nessunopioggia
+0423,sereno,nessuno
+0330,poco nuvoloso,nessuno
+0411,poco nuvoloso,nessuno

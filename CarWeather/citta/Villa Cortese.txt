@@ -7,3 +7,4 @@
 0423,poco nuvoloso,nessunonebbia
 0427,pioggia,nessunopioggia
 0503,,nessuno
+0404,,nessuno

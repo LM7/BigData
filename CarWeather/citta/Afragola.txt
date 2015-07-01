@@ -37,3 +37,5 @@
 0419,poco nuvoloso,nessuno
 0429,nubi sparse,nessunonebbia
 0428,pioggia debole,nessunopioggia temporale
+0425,poco nuvoloso,nessuno
+0430,nubi sparse,nessuno

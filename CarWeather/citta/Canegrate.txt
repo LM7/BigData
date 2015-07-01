@@ -9,3 +9,5 @@
 0414,poco nuvoloso,nessuno
 0422,sereno,nessuno
 0428,poco nuvoloso,nessunopioggia
+0411,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno

@@ -4,3 +4,4 @@
 0430,nubi sparse,nessuno
 0326,nubi sparse,nessunopioggia
 0427,coperto,nessunopioggia temporale
+0418,nubi sparse,nessuno

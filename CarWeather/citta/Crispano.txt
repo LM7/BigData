@@ -7,3 +7,7 @@
 0424,nubi sparse,nessuno
 0428,pioggia debole,nessunopioggia temporale
 0404,nubi sparse,nessunopioggia
+0412,poco nuvoloso,nessuno
+0426,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno
+0324,nubi sparse,nessuno

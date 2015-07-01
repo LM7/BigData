@@ -30,3 +30,6 @@
 0415,sereno,nessuno
 0501,coperto,nessunopioggia
 0425,,nessuno
+0410,sereno,nessuno
+0411,,nessuno
+0420,sereno,nessunonebbia

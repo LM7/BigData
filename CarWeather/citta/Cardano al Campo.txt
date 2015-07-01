@@ -11,3 +11,5 @@
 0429,coperto,nessunopioggia
 0501,coperto,nessunopioggia
 0410,sereno,nessuno
+0327,nebbia,nessunonebbia
+0430,nubi sparse,nessuno

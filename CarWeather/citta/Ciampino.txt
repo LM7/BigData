@@ -33,3 +33,13 @@
 0414,poco nuvoloso,nessuno
 0425,poco nuvoloso,nessuno
 0502,poco nuvoloso,nessuno
+0322,coperto,nessunopioggia
+0312,poco nuvoloso,nessuno
+0319,poco nuvoloso,nessuno
+0323,poco nuvoloso,nessuno
+0403,poco nuvoloso,nessuno
+0409,sereno,nessuno
+0419,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno
+0427,pioggia e schiarite,nessunopioggia
+0428,pioggia e schiarite,nessunopioggia

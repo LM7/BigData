@@ -2,3 +2,4 @@
 0428,poco nuvoloso,nessunopioggia
 0412,sereno,nessuno
 0409,sereno,nessuno
+0422,sereno,nessuno

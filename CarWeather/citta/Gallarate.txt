@@ -28,3 +28,12 @@
 0329,poco nuvoloso,nessuno
 0417,nubi sparse,nessunopioggia nebbia
 0325,pioggia debole,nessunopioggia
+0324,pioggia debole,nessunopioggia
+0327,sereno,nessunonebbia
+0404,coperto,nessuno
+0405,coperto,nessunopioggia
+0415,sereno,nessuno
+0422,sereno,nessuno
+0423,poco nuvoloso,nessuno
+0427,pioggia debole,nessunopioggia
+0429,nubi sparse,nessunopioggia temporale

@@ -21,3 +21,5 @@
 0320,poco nuvoloso,nessuno
 0321,sereno,nessuno
 0322,nubi sparse,nessuno
+0412,poco nuvoloso,nessuno
+0424,nubi sparse,nessuno

@@ -20,3 +20,12 @@
 0503,,nessuno
 0320,poco nuvoloso,nessuno
 0418,,nessuno
+0415,poco nuvoloso,nessuno
+0319,poco nuvoloso,nessuno
+0330,nubi sparse,nessuno
+0329,,nessuno
+0302,pioggia e schiarite,nessunopioggia
+0324,nubi sparse,nessuno
+0426,poco nuvoloso,nessuno
+0307,,nessuno
+0321,,nessuno

@@ -21,3 +21,7 @@
 0408,sereno,nessuno
 0422,sereno,nessuno
 0324,pioggia debole,nessunopioggia
+0401,sereno,nessuno
+0420,sereno,nessunonebbia
+0327,sereno,nessunonebbia
+0414,sereno,nessuno

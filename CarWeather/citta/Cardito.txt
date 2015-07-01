@@ -39,3 +39,4 @@
 0427,coperto,nessunopioggia
 0429,nubi sparse,nessunonebbia
 0503,poco nuvoloso,nessuno
+0406,coperto,nessuno

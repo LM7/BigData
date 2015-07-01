@@ -10,3 +10,4 @@
 0503,poco nuvoloso,nessuno
 0330,nubi sparse,nessunopioggia
 0331,nubi sparse,nessuno
+0418,nubi sparse,nessuno

@@ -18,3 +18,11 @@
 0425,coperto,nessunopioggia
 0426,pioggia debole,nessunopioggia
 0502,pioggia e schiarite,nessunopioggia nebbia
+0331,sereno,nessuno
+0407,sereno,nessuno
+0408,sereno,nessuno
+0409,sereno,nessuno
+0416,nubi sparse,nessuno
+0420,sereno,nessunonebbia
+0422,sereno,nessuno
+0423,poco nuvoloso,nessuno

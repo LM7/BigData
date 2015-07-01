@@ -3,3 +3,8 @@
 0403,poco nuvoloso,nessuno
 0406,poco nuvoloso,nessunopioggia nebbia
 0430,coperto,nessunopioggia temporale
+0428,poco nuvoloso,nessunopioggia
+0409,sereno,nessuno
+0413,sereno,nessunonebbia
+0420,nebbia,nessunonebbia
+0418,nebbia,nessunopioggia temporale

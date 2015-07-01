@@ -5,3 +5,4 @@
 0416,poco nuvoloso,nessuno
 0418,nebbia,nessunopioggia temporale
 0419,poco nuvoloso,nessuno
+0327,nebbia,nessunonebbia

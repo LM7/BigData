@@ -5,3 +5,4 @@
 0403,poco nuvoloso,nessuno
 0408,sereno,nessuno
 0418,nebbia,nessunopioggia temporale
+0422,sereno,nessuno

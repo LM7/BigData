@@ -15,3 +15,5 @@
 0412,sereno,nessuno
 0415,sereno,nessuno
 0417,nubi sparse,nessunopioggia
+0330,poco nuvoloso,nessuno
+0418,nebbia,nessunopioggia temporale

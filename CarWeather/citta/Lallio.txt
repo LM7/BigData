@@ -1,2 +1,3 @@
 
 0326,nubi sparse,nessunopioggia
+0418,nubi sparse,nessunopioggia temporale

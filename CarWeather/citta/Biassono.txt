@@ -20,3 +20,5 @@
 0502,poco nuvoloso,nessunopioggia nebbia
 0430,coperto,nessunopioggia temporale
 0409,sereno,nessuno
+0330,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno

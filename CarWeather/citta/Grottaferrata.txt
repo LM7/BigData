@@ -17,3 +17,6 @@
 0405,coperto,nessunopioggia
 0412,poco nuvoloso,nessuno
 0424,poco nuvoloso,nessuno
+0426,nubi sparse,nessuno
+0416,nebbia,nessunonebbia
+0417,nubi sparse,nessunopioggia

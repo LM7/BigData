@@ -17,3 +17,4 @@
 0430,coperto,nessunopioggia temporale
 0503,coperto,nessunopioggia
 0404,coperto,nessunopioggia
+0426,coperto,nessunopioggia

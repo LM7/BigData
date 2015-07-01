@@ -11,3 +11,6 @@
 0401,coperto,nessuno
 0403,coperto,nessuno
 0415,nubi sparse,nessuno
+0411,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno
+0421,sereno,nessuno

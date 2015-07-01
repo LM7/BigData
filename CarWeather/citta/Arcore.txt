@@ -3,3 +3,14 @@
 0326,pioggia e schiarite,nessunopioggia
 0408,sereno,nessuno
 0409,sereno,nessuno
+0401,sereno,nessuno
+0402,sereno,nessuno
+0403,poco nuvoloso,nessuno
+0407,sereno,nessuno
+0410,sereno,nessuno
+0414,poco nuvoloso,nessuno
+0415,sereno,nessuno
+0416,poco nuvoloso,nessuno
+0417,nubi sparse,nessunopioggia
+0420,nebbia,nessunonebbia
+0421,sereno,nessuno

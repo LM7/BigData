@@ -20,3 +20,12 @@
 0407,sereno,nessuno
 0328,sereno,nessuno
 0408,sereno,nessuno
+0326,pioggia e schiarite,nessunopioggia
+0327,nebbia,nessunonebbia
+0401,sereno,nessuno
+0402,sereno,nessuno
+0404,coperto,nessunopioggia
+0419,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0428,poco nuvoloso,nessunopioggia
+0324,coperto,nessunopioggia

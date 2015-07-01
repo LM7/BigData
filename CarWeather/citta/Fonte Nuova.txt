@@ -25,3 +25,4 @@
 0320,poco nuvoloso,nessuno
 0323,nubi sparse,nessuno
 0305,nubi sparse,nessunopioggia
+0407,poco nuvoloso,nessuno

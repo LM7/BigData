@@ -10,3 +10,4 @@
 0324,pioggia debole,nessunopioggia
 0410,sereno,nessuno
 0420,sereno,nessunonebbia
+0412,,nessuno

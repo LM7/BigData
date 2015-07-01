@@ -33,3 +33,4 @@
 0405,coperto,nessunopioggia temporale
 0415,nubi sparse,nessuno
 0420,sereno,nessuno
+0419,poco nuvoloso,nessuno

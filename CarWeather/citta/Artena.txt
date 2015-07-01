@@ -26,3 +26,4 @@
 0429,poco nuvoloso,nessunonebbia
 0430,poco nuvoloso,nessuno
 0322,nubi sparse,nessuno
+0307,poco nuvoloso,nessuno

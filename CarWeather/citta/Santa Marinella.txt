@@ -6,3 +6,4 @@
 0313,sereno,nessuno
 0301,poco nuvoloso,nessuno
 0430,poco nuvoloso,nessunonebbia
+0412,poco nuvoloso,nessunonebbia

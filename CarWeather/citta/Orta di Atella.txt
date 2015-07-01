@@ -34,3 +34,8 @@
 0401,coperto,nessuno
 0412,poco nuvoloso,nessuno
 0405,coperto,nessunopioggia temporale
+0424,nubi sparse,nessuno
+0426,poco nuvoloso,nessuno
+0425,poco nuvoloso,nessuno
+0502,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno

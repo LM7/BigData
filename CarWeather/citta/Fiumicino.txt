@@ -28,3 +28,20 @@
 0405,coperto,nessunopioggia temporale
 0408,sereno,nessuno
 0411,poco nuvoloso,nessuno
+0406,poco nuvoloso,nessuno
+0418,nubi sparse,nessuno
+0424,poco nuvoloso,nessuno
+0425,nebbia,nessunonebbia
+0426,nebbia,nessunonebbia
+0311,poco nuvoloso,nessuno
+0327,nubi sparse,nessuno
+0427,pioggia e schiarite,nessunopioggia
+0324,nubi sparse,nessuno
+0328,poco nuvoloso,nessuno
+0329,sereno,nessuno
+0419,poco nuvoloso,nessuno
+0428,coperto,nessunopioggia
+0502,poco nuvoloso,nessunopioggia
+0303,nebbia,nessunonebbia
+0309,poco nuvoloso,nessuno
+0421,sereno,nessuno

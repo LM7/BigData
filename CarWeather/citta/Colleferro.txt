@@ -23,3 +23,8 @@
 0428,coperto,nessunopioggia
 0429,poco nuvoloso,nessunonebbia
 0501,poco nuvoloso,nessuno
+0409,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno
+0303,nebbia,nessunonebbia
+0309,poco nuvoloso,nessuno
+0330,poco nuvoloso,nessunopioggia

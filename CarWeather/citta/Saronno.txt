@@ -10,3 +10,4 @@
 0502,poco nuvoloso,nessunopioggia nebbia
 0411,poco nuvoloso,nessuno
 0427,pioggia debole,nessunopioggia
+0410,sereno,nessuno

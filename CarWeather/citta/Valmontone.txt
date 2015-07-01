@@ -26,3 +26,11 @@
 0503,,nessuno
 0422,sereno,nessuno
 0421,poco nuvoloso,nessuno
+0502,,nessuno
+0306,sereno,nessuno
+0405,,nessuno
+0403,poco nuvoloso,nessuno
+0302,pioggia e schiarite,nessunopioggia
+0304,nubi sparse,nessunopioggia
+0310,poco nuvoloso,nessuno
+0321,,nessuno

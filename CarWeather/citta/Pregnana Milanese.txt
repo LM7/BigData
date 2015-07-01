@@ -12,3 +12,6 @@
 0416,poco nuvoloso,nessuno
 0419,poco nuvoloso,nessuno
 0422,sereno,nessuno
+0406,poco nuvoloso,nessunopioggia nebbia
+0429,nubi sparse,nessunopioggia
+0330,poco nuvoloso,nessuno

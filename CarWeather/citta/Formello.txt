@@ -2,3 +2,18 @@
 0319,poco nuvoloso,nessuno
 0325,sereno,nessunopioggia
 0415,poco nuvoloso,nessuno
+0301,poco nuvoloso,nessuno
+0302,nubi sparse,nessunopioggia
+0304,nubi sparse,nessunopioggia
+0306,poco nuvoloso,nessuno
+0307,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0310,poco nuvoloso,nessuno
+0311,poco nuvoloso,nessuno
+0312,poco nuvoloso,nessuno
+0314,poco nuvoloso,nessuno
+0315,nubi sparse,nessunopioggia
+0318,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno
+0321,poco nuvoloso,nessuno
+0323,poco nuvoloso,nessuno

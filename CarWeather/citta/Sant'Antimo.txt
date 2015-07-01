@@ -29,3 +29,4 @@
 0429,nubi sparse,nessunonebbia
 0430,nubi sparse,nessuno
 0411,poco nuvoloso,nessuno
+0412,poco nuvoloso,nessuno

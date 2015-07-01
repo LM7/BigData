@@ -23,3 +23,12 @@
 0426,poco nuvoloso,nessuno
 0427,poco nuvoloso,nessunopioggia
 0502,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0326,nubi sparse,nessuno
+0416,poco nuvoloso,nessuno
+0420,nubi sparse,nessuno
+0428,poco nuvoloso,nessunopioggia temporale
+0331,poco nuvoloso,nessuno
+0501,sereno,nessuno
+0413,sereno,nessuno
+0425,sereno,nessuno

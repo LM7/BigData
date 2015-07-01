@@ -23,3 +23,5 @@
 0306,poco nuvoloso,nessuno
 0317,pioggia debole,nessunopioggia
 0427,pioggia e schiarite,nessunopioggia
+0328,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno

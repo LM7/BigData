@@ -26,3 +26,6 @@
 0310,poco nuvoloso,nessuno
 0316,sereno,nessunopioggia
 0318,poco nuvoloso,nessuno
+0415,nubi sparse,nessunonebbia
+0312,poco nuvoloso,nessuno
+0422,poco nuvoloso,nessuno

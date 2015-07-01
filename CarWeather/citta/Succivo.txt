@@ -28,3 +28,6 @@
 0413,sereno,nessuno
 0425,poco nuvoloso,nessuno
 0406,coperto,nessuno
+0403,coperto,nessuno
+0407,nubi sparse,nessuno
+0402,poco nuvoloso,nessuno

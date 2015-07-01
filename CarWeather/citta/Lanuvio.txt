@@ -3,3 +3,5 @@
 0313,poco nuvoloso,nessuno
 0317,pioggia debole,nessunopioggia
 0310,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0326,coperto,nessuno

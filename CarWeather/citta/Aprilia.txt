@@ -13,3 +13,26 @@
 0307,sereno,nessuno
 0314,poco nuvoloso,nessuno
 0321,poco nuvoloso,nessuno
+0302,pioggia debole,nessunopioggia
+0308,poco nuvoloso,nessuno
+0309,poco nuvoloso,nessuno
+0320,sereno,nessuno
+0322,coperto,nessunopioggia
+0304,nubi sparse,nessunopioggia
+0305,pioggia debole,nessunopioggia
+0312,poco nuvoloso,nessuno
+0317,coperto,nessunopioggia
+0318,poco nuvoloso,nessuno
+0319,poco nuvoloso,nessuno
+0323,coperto,nessuno
+0326,coperto,nessuno
+0327,poco nuvoloso,nessunopioggia temporale
+0331,nubi sparse,nessuno
+0401,poco nuvoloso,nessuno
+0417,poco nuvoloso,nessunopioggia
+0420,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0427,coperto,nessunopioggia temporale
+0428,pioggia debole,nessunopioggia
+0429,poco nuvoloso,nessuno
+0430,nubi sparse,nessuno

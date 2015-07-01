@@ -2,3 +2,6 @@
 0410,sereno,nessuno
 0326,pioggia e schiarite,nessunopioggia
 0416,poco nuvoloso,nessuno
+0330,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno
+0408,sereno,nessuno

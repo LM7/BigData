@@ -8,3 +8,11 @@
 0412,,nessuno
 0405,,nessuno
 0329,,nessuno
+0326,nubi sparse,nessunopioggia
+0422,sereno,nessuno
+0423,poco nuvoloso,nessunonebbia
+0429,coperto,nessunopioggia
+0411,,nessuno
+0502,,nessuno
+0424,poco nuvoloso,nessuno
+0419,,nessuno
