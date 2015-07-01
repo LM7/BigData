@@ -1,0 +1,5 @@
+
+0416,nebbia,nessunonebbia
+0315,coperto,nessunopioggia
+0302,pioggia debole,nessunopioggia
+0311,poco nuvoloso,nessuno

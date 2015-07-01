@@ -1,0 +1,3 @@
+
+0402,sereno,nessuno
+0403,poco nuvoloso,nessuno

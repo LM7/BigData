@@ -1,0 +1,8 @@
+
+0421,sereno,nessuno
+0326,poco nuvoloso,nessuno
+0327,coperto,nessuno
+0330,nubi sparse,nessunopioggia
+0406,coperto,nessuno
+0412,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno

@@ -1,0 +1,3 @@
+
+0312,poco nuvoloso,nessuno
+0409,sereno,nessuno

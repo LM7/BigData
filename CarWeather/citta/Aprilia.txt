@@ -1,0 +1,5 @@
+
+0311,poco nuvoloso,nessuno
+0313,sereno,nessuno
+0324,poco nuvoloso,nessuno
+0413,sereno,nessuno

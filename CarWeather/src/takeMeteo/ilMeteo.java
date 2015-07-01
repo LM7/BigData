@@ -164,9 +164,9 @@ public class ilMeteo {
 		int i = 0;
 		while (line!=null){
 			String[] splits = line.split(",");
-			String[] res = ilMeteo.findMeteo(splits[8],splits[11]);
+			String[] res = ilMeteo.findMeteo(splits[11],splits[8]);
 			i++;
-			System.out.println("CITTA' "+res[0]+" ; numero "+i);
+			System.out.println("TEMPO "+res[0]+" ; numero "+i);
 			line = reader.readLine();
 		}
 		
