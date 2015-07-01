@@ -1,0 +1,5 @@
+
+0402,poco nuvoloso,nessuno
+0407,poco nuvoloso,nessuno
+0424,poco nuvoloso,nessuno
+0418,nubi sparse,nessuno

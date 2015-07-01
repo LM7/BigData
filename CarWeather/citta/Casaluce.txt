@@ -1,0 +1,20 @@
+
+0325,coperto,nessunopioggia
+0326,nubi sparse,nessunopioggia
+0327,temporale,nessunotemporale
+0328,poco nuvoloso,nessunopioggia
+0330,poco nuvoloso,nessunopioggia
+0401,nubi sparse,nessunonebbia
+0403,nubi sparse,nessuno
+0410,sereno,nessuno
+0412,poco nuvoloso,nessunonebbia
+0414,poco nuvoloso,nessuno
+0415,poco nuvoloso,nessunonebbia
+0416,poco nuvoloso,nessuno
+0417,nebbia,nessunopioggia nebbia
+0418,nubi sparse,nessuno
+0419,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno
+0423,nubi sparse,nessuno
+0425,poco nuvoloso,nessuno
+0430,nubi sparse,nessuno

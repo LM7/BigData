@@ -1,0 +1,20 @@
+
+0423,sereno,nessuno
+0328,sereno,nessuno
+0401,sereno,nessuno
+0402,sereno,nessuno
+0404,coperto,nessunopioggia
+0407,sereno,nessuno
+0408,sereno,nessuno
+0410,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0416,poco nuvoloso,nessuno
+0417,nubi sparse,nessunopioggia
+0418,nebbia,nessunopioggia temporale
+0420,nebbia,nessunonebbia
+0421,sereno,nessuno
+0422,sereno,nessuno
+0424,poco nuvoloso,nessuno
+0427,pioggia debole,nessunopioggia
+0501,pioggia debole,nessunopioggia
+0502,poco nuvoloso,nessunopioggia nebbia

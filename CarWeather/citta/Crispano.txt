@@ -1,0 +1,3 @@
+
+0330,nubi sparse,nessunopioggia
+0402,poco nuvoloso,nessuno

@@ -1,0 +1,9 @@
+
+0408,sereno,nessuno
+0410,sereno,nessuno
+0418,nebbia,nessunopioggia temporale
+0420,nebbia,nessunonebbia
+0422,sereno,nessuno
+0423,sereno,nessuno
+0424,poco nuvoloso,nessuno
+0428,poco nuvoloso,nessunopioggia

@@ -1,0 +1,6 @@
+
+0406,poco nuvoloso,nessunopioggia nebbia
+0419,poco nuvoloso,nessuno
+0428,poco nuvoloso,nessunopioggia
+0326,pioggia e schiarite,nessunopioggia
+0420,nebbia,nessunonebbia

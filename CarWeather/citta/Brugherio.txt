@@ -1,0 +1,7 @@
+
+0413,sereno,nessunonebbia
+0414,poco nuvoloso,nessuno
+0415,sereno,nessuno
+0416,poco nuvoloso,nessuno
+0418,nebbia,nessunopioggia temporale
+0419,poco nuvoloso,nessuno

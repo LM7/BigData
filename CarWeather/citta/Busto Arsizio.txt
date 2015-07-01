@@ -1,0 +1,4 @@
+
+0402,sereno,nessuno
+0412,,nessuno
+0427,pioggia,nessunopioggia

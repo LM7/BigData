@@ -1,0 +1,12 @@
+
+0305,nubi sparse,nessunopioggia
+0310,poco nuvoloso,nessuno
+0311,poco nuvoloso,nessuno
+0314,poco nuvoloso,nessuno
+0315,nubi sparse,nessunopioggia
+0316,coperto,nessunopioggia
+0318,poco nuvoloso,nessuno
+0319,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno
+0322,coperto,nessunopioggia
+0323,poco nuvoloso,nessuno

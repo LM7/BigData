@@ -1,0 +1,12 @@
+
+0329,,nessuno
+0405,,nessuno
+0411,,nessuno
+0412,,nessuno
+0414,poco nuvoloso,nessuno
+0417,coperto,nessunopioggia
+0418,,nessuno
+0422,sereno,nessuno
+0423,poco nuvoloso,nessunonebbia
+0429,coperto,nessunopioggia
+0501,coperto,nessunopioggia

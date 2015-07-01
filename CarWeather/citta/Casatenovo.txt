@@ -1,0 +1,3 @@
+
+0421,sereno,nessuno
+0430,coperto,nessunopioggia temporale
