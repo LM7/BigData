@@ -23,3 +23,4 @@
 0429,poco nuvoloso,nessunonebbia
 0430,poco nuvoloso,nessuno
 0401,poco nuvoloso,nessunonebbia
+0501,poco nuvoloso,nessunopioggia

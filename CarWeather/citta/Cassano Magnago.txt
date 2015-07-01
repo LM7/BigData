@@ -17,3 +17,4 @@
 0418,nubi sparse,nessunopioggia nebbia
 0401,sereno,nessuno
 0430,coperto,nessunopioggia temporale
+0421,sereno,nessuno

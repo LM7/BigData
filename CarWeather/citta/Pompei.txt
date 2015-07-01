@@ -1,2 +1,3 @@
 
 0414,nubi sparse,nessuno
+0324,poco nuvoloso,nessuno

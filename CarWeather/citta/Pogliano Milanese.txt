@@ -1,3 +1,6 @@
 
 0331,poco nuvoloso,nessuno
 0413,sereno,nessunonebbia
+0417,nubi sparse,nessunopioggia
+0424,poco nuvoloso,nessuno
+0428,poco nuvoloso,nessunopioggia

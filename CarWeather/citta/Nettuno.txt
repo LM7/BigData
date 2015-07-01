@@ -18,3 +18,6 @@
 0323,poco nuvoloso,nessuno
 0324,nubi sparse,nessuno
 0413,poco nuvoloso,nessuno
+0329,poco nuvoloso,nessuno
+0405,coperto,nessunopioggia
+0406,coperto,nessunopioggia

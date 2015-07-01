@@ -1,2 +1,3 @@
 
 0326,poco nuvoloso,nessuno
+0418,nubi sparse,nessuno

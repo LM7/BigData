@@ -1,2 +1,9 @@
 
 0415,nubi sparse,nessuno
+0423,nubi sparse,nessuno
+0418,nubi sparse,nessuno
+0420,sereno,nessuno
+0421,sereno,nessuno
+0422,sereno,nessuno
+0424,nubi sparse,nessuno
+0425,poco nuvoloso,nessuno

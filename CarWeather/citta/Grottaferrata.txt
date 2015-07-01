@@ -3,3 +3,5 @@
 0304,nubi sparse,nessunopioggia
 0305,nubi sparse,nessunopioggia
 0418,nubi sparse,nessuno
+0321,poco nuvoloso,nessuno
+0331,poco nuvoloso,nessuno

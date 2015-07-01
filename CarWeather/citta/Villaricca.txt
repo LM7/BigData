@@ -15,3 +15,6 @@
 0421,sereno,nessuno
 0423,nubi sparse,nessuno
 0430,nubi sparse,nessuno
+0425,poco nuvoloso,nessuno
+0426,poco nuvoloso,nessuno
+0501,poco nuvoloso,nessuno

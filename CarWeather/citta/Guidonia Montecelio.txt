@@ -50,3 +50,9 @@
 0430,nubi sparse,nessunopioggia
 0501,,nessuno
 0503,,nessuno
+0303,poco nuvoloso,nessuno
+0312,poco nuvoloso,nessuno
+0411,,nessuno
+0418,,nessuno
+0426,poco nuvoloso,nessuno
+0427,pioggia debole,nessunopioggia

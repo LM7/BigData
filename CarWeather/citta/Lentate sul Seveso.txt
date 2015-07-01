@@ -1,3 +1,4 @@
 
 0426,coperto,nessunopioggia
 0406,poco nuvoloso,nessunopioggia nebbia
+0410,sereno,nessuno

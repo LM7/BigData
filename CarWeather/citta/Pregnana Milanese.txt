@@ -4,3 +4,4 @@
 0404,coperto,nessunopioggia
 0407,sereno,nessuno
 0409,sereno,nessuno
+0430,coperto,nessunopioggia temporale

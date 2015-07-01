@@ -1,3 +1,8 @@
 
 0330,nubi sparse,nessunopioggia
 0402,poco nuvoloso,nessuno
+0415,nubi sparse,nessuno
+0417,poco nuvoloso,nessunopioggia
+0419,poco nuvoloso,nessuno
+0424,nubi sparse,nessuno
+0428,pioggia debole,nessunopioggia temporale

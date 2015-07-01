@@ -1,3 +1,11 @@
 
 0313,poco nuvoloso,nessuno
 0316,poco nuvoloso,nessunopioggia
+0301,,nessuno
+0303,poco nuvoloso,nessuno
+0321,,nessuno
+0326,nubi sparse,nessunopioggia temporale
+0402,poco nuvoloso,nessuno
+0403,poco nuvoloso,nessuno
+0419,,nessuno
+0421,poco nuvoloso,nessuno

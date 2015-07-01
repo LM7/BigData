@@ -6,3 +6,4 @@
 0406,coperto,nessuno
 0412,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
+0324,nubi sparse,nessuno

@@ -2,3 +2,4 @@
 0414,sereno,nessuno
 0314,nubi sparse,nessuno
 0328,poco nuvoloso,nessuno
+0418,nebbia,nessunonebbia

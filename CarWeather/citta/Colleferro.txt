@@ -1,2 +1,5 @@
 
 0314,poco nuvoloso,nessuno
+0324,nubi sparse,nessuno
+0311,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno

@@ -1,2 +1,6 @@
 
 0413,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0325,pioggia debole,nessunopioggia
+0330,nubi sparse,nessunonebbia
+0331,sereno,nessuno

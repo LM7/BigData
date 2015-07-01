@@ -6,3 +6,7 @@
 0422,sereno,nessuno
 0428,nubi sparse,nessunopioggia
 0502,pioggia e schiarite,nessunopioggia nebbia
+0325,pioggia debole,nessunopioggia
+0401,sereno,nessuno
+0402,sereno,nessuno
+0403,nubi sparse,nessuno

@@ -1,2 +1,3 @@
 
 0501,sereno,nessuno
+0407,poco nuvoloso,nessuno

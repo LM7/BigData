@@ -16,3 +16,4 @@
 0427,coperto,nessunopioggia
 0428,pioggia debole,nessunopioggia temporale
 0429,nubi sparse,nessunonebbia
+0328,poco nuvoloso,nessuno

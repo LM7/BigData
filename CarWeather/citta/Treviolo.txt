@@ -2,3 +2,12 @@
 0409,sereno,nessuno
 0416,nubi sparse,nessunopioggia
 0422,sereno,nessuno
+0326,nubi sparse,nessunopioggia
+0408,sereno,nessuno
+0410,poco nuvoloso,nessuno
+0413,sereno,nessuno
+0415,sereno,nessuno
+0420,sereno,nessuno
+0424,poco nuvoloso,nessuno
+0429,nubi sparse,nessunopioggia temporale
+0401,sereno,nessuno

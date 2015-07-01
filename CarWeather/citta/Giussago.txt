@@ -1,2 +1,4 @@
 
 0331,poco nuvoloso,nessuno
+0401,sereno,nessuno
+0408,sereno,nessuno

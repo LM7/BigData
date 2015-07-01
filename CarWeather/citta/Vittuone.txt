@@ -1,2 +1,3 @@
 
 0324,coperto,nessunopioggia
+0328,sereno,nessuno

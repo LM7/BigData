@@ -3,3 +3,5 @@
 0420,sereno,nessunonebbia
 0424,poco nuvoloso,nessuno
 0325,coperto,nessunopioggia
+0407,sereno,nessuno
+0429,coperto,nessunopioggia

@@ -39,3 +39,4 @@
 0423,sereno,nessuno
 0501,pioggia debole,nessunopioggia
 0405,pioggia debole,nessunopioggia
+0329,poco nuvoloso,nessuno

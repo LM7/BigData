@@ -18,3 +18,5 @@
 0401,sereno,nessuno
 0424,poco nuvoloso,nessuno
 0408,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0416,nubi sparse,nessuno

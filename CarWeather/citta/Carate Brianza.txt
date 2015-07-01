@@ -4,3 +4,5 @@
 0428,poco nuvoloso,nessunopioggia
 0326,pioggia e schiarite,nessunopioggia
 0420,nebbia,nessunonebbia
+0404,coperto,nessunopioggia
+0410,sereno,nessuno

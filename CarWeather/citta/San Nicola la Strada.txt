@@ -1,2 +1,3 @@
 
 0329,sereno,nessuno
+0418,nubi sparse,nessuno

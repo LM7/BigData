@@ -9,3 +9,4 @@
 0404,nubi sparse,nessunopioggia
 0412,poco nuvoloso,nessuno
 0502,poco nuvoloso,nessuno
+0425,poco nuvoloso,nessuno

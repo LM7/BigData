@@ -37,3 +37,4 @@
 0428,pioggia debole,nessunopioggia temporale
 0430,nubi sparse,nessuno
 0502,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno

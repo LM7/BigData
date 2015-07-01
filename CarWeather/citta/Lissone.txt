@@ -15,3 +15,4 @@
 0420,nebbia,nessunonebbia
 0501,pioggia debole,nessunopioggia
 0503,coperto,nessunopioggia
+0418,nebbia,nessunopioggia temporale

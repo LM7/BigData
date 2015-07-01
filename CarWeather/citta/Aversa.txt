@@ -25,3 +25,4 @@
 0427,coperto,nessunopioggia
 0502,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
+0415,nubi sparse,nessuno
