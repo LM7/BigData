@@ -51,7 +51,44 @@ public class File {
 		}
 	}
 
+	private static void deleteLine(String citta,String data){
+		try {
+			java.io.File temp = java.io.File.createTempFile("preferiti",".txt");
+			temp.deleteOnExit();
+
+			BufferedWriter out = new BufferedWriter(new FileWriter(temp,true));
+			//PrintWriter pw = new PrintWriter(out,true);
+			BufferedReader in = new BufferedReader(new FileReader("citta/"+citta+".txt"));
+
+			//scandisco le righe del file e non considero la riga che voglio eliminare
+			String linea = in.readLine();
+			while (linea != null) {
+				String[] riga = linea.split(",");
+				if (!riga[0].equals(data)){
+					out.newLine();
+					out.write(linea);
+				}
+				linea = in.readLine();
+			}
+
+			in.close();
+			out.close();
+			//pw.close();
+
+
+			//java.io.File file = temp;
+			//FileOutputStream fos=new FileOutputStream(file);
+			java.io.File origine= new java.io.File("citta/"+citta+".txt");
+			origine.delete();
+			temp.renameTo(origine);
+
+		} catch (Exception e) {
+			System.out.println(e.getMessage());
+		}
+	}
+
 	public static void main(String[] args) {
+		/*
 		String[] results = File.takeFile("Roma", "0315");
 		if (results != null){
 			System.out.println("Condizioni meteo = "+results[0]);
@@ -61,6 +98,8 @@ public class File {
 			File.createFile("Roma", "0315", new String[]{"Bello","BUnoo ok"});
 			System.out.println("creato??");
 		}
+		*/
+		File.deleteLine("PROVAPROVA", "0406");
 	}
 
 }
