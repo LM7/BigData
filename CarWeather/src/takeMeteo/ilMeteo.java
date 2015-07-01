@@ -155,7 +155,27 @@ public class ilMeteo {
 		
 		//String risposta = ilMeteo.findMeteo("Roma", "2015031584598");
 		//System.out.println("risposta = "+risposta);
-	}
+		
+		
+		BufferedReader reader = new BufferedReader(new FileReader("DatasetMobility.txt"));
+		String line = reader.readLine();
+		int i;
+		while (line!=null){
+			String[] splits = line.split(",");
+			String[] res = ilMeteo.findMeteo(splits[8],splits[11]);
+			System.out.println(res[0]);
+			i++;
+			System.out.println(i);
+			}
+			/*for (int k = 0; k < 13; k++) {
+				System.out.println(appoggio[k] + " "+k);
+			}*/
+			datiFinali.add(appoggio);
+			line = reader.readLine();
+		}
+		reader.close();
+		
+		System.out.println("DONE");	}
 
 
 }
