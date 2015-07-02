@@ -1,0 +1,4 @@
+
+0411,poco nuvoloso,nessuno
+0409,sereno,nessuno
+0429,nubi sparse,nessunopioggia temporale

@@ -1,0 +1,5 @@
+
+0322,coperto,nessunopioggia
+0308,poco nuvoloso,nessuno
+0501,poco nuvoloso,nessuno
+0330,nubi sparse,nessunopioggia

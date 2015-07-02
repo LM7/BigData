@@ -1,0 +1,4 @@
+
+0328,sereno,nessuno
+0426,coperto,nessunopioggia
+0430,coperto,nessunopioggia temporale

@@ -1,0 +1,4 @@
+
+0403,poco nuvoloso,nessuno
+0412,sereno,nessuno
+0430,poco nuvoloso,nessuno

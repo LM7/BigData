@@ -1,0 +1,4 @@
+
+0503,poco nuvoloso,nessuno
+0406,nubi sparse,nessuno
+0425,poco nuvoloso,nessuno

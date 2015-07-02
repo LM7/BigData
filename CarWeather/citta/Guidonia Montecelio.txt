@@ -61,3 +61,5 @@
 0405,,nessuno
 0414,poco nuvoloso,nessuno
 0417,poco nuvoloso,nessuno
+0412,,nessuno
+0401,poco nuvoloso,nessuno

@@ -28,3 +28,38 @@
 0407,poco nuvoloso,nessuno
 0419,,nessuno
 0423,poco nuvoloso,nessuno
+0307,,nessuno
+0310,poco nuvoloso,nessuno
+0302,pioggia e schiarite,nessunopioggia
+0314,,nessuno
+0318,nubi sparse,nessuno
+0306,sereno,nessuno
+0428,coperto,nessunopioggia
+0308,,nessuno
+0309,poco nuvoloso,nessuno
+0316,poco nuvoloso,nessunopioggia
+0321,,nessuno
+0401,poco nuvoloso,nessuno
+0411,,nessuno
+0414,poco nuvoloso,nessuno
+0417,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0424,nubi sparse,nessuno
+0426,poco nuvoloso,nessuno
+0429,nubi sparse,nessuno
+0430,nubi sparse,nessunopioggia
+0503,,nessuno
+0427,pioggia debole,nessunopioggia
+0502,,nessuno
+0322,,nessuno
+0329,,nessuno
+0412,,nessuno
+0416,poco nuvoloso,nessuno
+0325,sereno,nessunopioggia
+0425,,nessuno
+0326,nubi sparse,nessunopioggia temporale
+0501,,nessuno
+0330,nubi sparse,nessuno
+0402,poco nuvoloso,nessuno
+0315,,nessuno
+0405,,nessuno

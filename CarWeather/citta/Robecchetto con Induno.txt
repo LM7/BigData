@@ -1,0 +1,10 @@
+
+0420,sereno,nessunonebbia
+0421,sereno,nessuno
+0408,sereno,nessuno
+0413,sereno,nessunonebbia
+0425,,nessuno
+0427,pioggia,nessunopioggia
+0410,sereno,nessuno
+0414,poco nuvoloso,nessuno
+0324,pioggia debole,nessunopioggia

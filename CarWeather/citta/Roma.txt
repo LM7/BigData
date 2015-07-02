@@ -63,3 +63,4 @@
 0412,poco nuvoloso,nessuno
 0418,nubi sparse,nessuno
 0405,coperto,nessunopioggia
+0228,,nessuno

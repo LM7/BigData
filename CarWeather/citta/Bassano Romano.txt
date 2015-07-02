@@ -1,0 +1,6 @@
+
+0329,sereno,nessuno
+0405,nubi sparse,nessunopioggia
+0425,poco nuvoloso,nessunonebbia
+0426,nebbia,nessunonebbia
+0310,sereno,nessuno

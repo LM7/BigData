@@ -66,7 +66,7 @@ public class Prova {
 	private static void add(String string){
 		try {
 			if (! Prova.in(string)) {		
-				FileWriter fileWriter = new FileWriter("NUOVE.txt",true);
+				FileWriter fileWriter = new FileWriter("NUOVElorenzo.txt",true);
 
 				BufferedWriter bufferedWriter =new BufferedWriter(fileWriter);
 
@@ -83,7 +83,7 @@ public class Prova {
 	}
 
 	private static boolean in(String string) throws Exception {
-		FileReader fileReader = new FileReader("NUOVE.txt");
+		FileReader fileReader = new FileReader("NUOVElorenzo.txt");
 		BufferedReader bufferedReader = new BufferedReader(fileReader);
 		String line = null;
 		while((line = bufferedReader.readLine()) != null) {

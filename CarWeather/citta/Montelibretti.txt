@@ -1,0 +1,7 @@
+
+0403,poco nuvoloso,nessuno
+0429,nubi sparse,nessuno
+0313,poco nuvoloso,nessuno
+0417,poco nuvoloso,nessuno
+0303,poco nuvoloso,nessuno
+0307,,nessuno

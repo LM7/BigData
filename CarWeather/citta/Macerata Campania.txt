@@ -1,0 +1,4 @@
+
+0406,nubi sparse,nessuno
+0411,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno

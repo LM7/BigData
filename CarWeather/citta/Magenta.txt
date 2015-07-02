@@ -35,3 +35,30 @@
 0418,,nessuno
 0405,,nessuno
 0407,sereno,nessuno
+0412,,nessuno
+0402,sereno,nessuno
+0417,coperto,nessunopioggia
+0501,coperto,nessunopioggia
+0503,,nessuno
+0316,sereno,nessunopioggia
+0304,nebbia,nessunonebbia
+0312,sereno,nessuno
+0305,sereno,nessuno
+0309,sereno,nessuno
+0310,poco nuvoloso,nessuno
+0319,nubi sparse,nessuno
+0323,nebbia,nessunonebbia
+0301,,nessuno
+0302,nubi sparse,nessuno
+0303,sereno,nessuno
+0317,coperto,nessunopioggia
+0307,,nessuno
+0308,,nessuno
+0320,nubi sparse,nessuno
+0321,,nessuno
+0311,nebbia,nessuno
+0306,sereno,nessuno
+0313,sereno,nessuno
+0314,,nessuno
+0318,nebbia,nessunonebbia
+0322,,nessuno

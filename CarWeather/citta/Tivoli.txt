@@ -60,3 +60,6 @@
 0501,,nessuno
 0503,,nessuno
 0321,,nessuno
+0401,poco nuvoloso,nessuno
+0326,nubi sparse,nessunopioggia temporale
+0425,,nessuno

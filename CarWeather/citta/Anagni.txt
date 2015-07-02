@@ -1,0 +1,20 @@
+
+0412,poco nuvoloso,nessuno
+0315,nubi sparse,nessunopioggia
+0301,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0323,poco nuvoloso,nessuno
+0407,poco nuvoloso,nessuno
+0411,poco nuvoloso,nessuno
+0502,poco nuvoloso,nessuno
+0303,nebbia,nessunonebbia
+0316,sereno,nessunopioggia
+0409,sereno,nessuno
+0306,poco nuvoloso,nessuno
+0321,poco nuvoloso,nessuno
+0428,nubi sparse,nessunopioggia
+0406,nubi sparse,nessuno
+0302,pioggia debole,nessunopioggia nebbia
+0313,poco nuvoloso,nessuno
+0327,poco nuvoloso,nessunopioggia temporale
+0403,poco nuvoloso,nessuno

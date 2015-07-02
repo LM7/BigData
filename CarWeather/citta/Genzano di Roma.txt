@@ -53,3 +53,13 @@
 0310,poco nuvoloso,nessuno
 0407,poco nuvoloso,nessuno
 0408,poco nuvoloso,nessuno
+0314,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0326,coperto,nessuno
+0401,poco nuvoloso,nessuno
+0410,poco nuvoloso,nessuno
+0427,pioggia e schiarite,nessunopioggia
+0311,poco nuvoloso,nessuno
+0409,sereno,nessuno
+0426,nubi sparse,nessuno
+0412,poco nuvoloso,nessuno

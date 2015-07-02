@@ -53,3 +53,14 @@
 0304,nubi sparse,nessunopioggia
 0402,poco nuvoloso,nessuno
 0410,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno
+0413,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0311,poco nuvoloso,nessuno
+0330,nubi sparse,nessunopioggia
+0412,poco nuvoloso,nessuno
+0305,nubi sparse,nessunopioggia
+0331,poco nuvoloso,nessuno
+0501,poco nuvoloso,nessuno
+0406,poco nuvoloso,nessuno
+0228,,nessuno

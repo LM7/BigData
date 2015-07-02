@@ -1,0 +1,4 @@
+
+0330,poco nuvoloso,nessuno
+0408,sereno,nessuno
+0420,nebbia,nessunonebbia

@@ -45,3 +45,21 @@
 0420,poco nuvoloso,nessuno
 0329,sereno,nessuno
 0324,poco nuvoloso,nessuno
+0314,poco nuvoloso,nessuno
+0411,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno
+0405,coperto,nessunopioggia
+0501,poco nuvoloso,nessuno
+0301,poco nuvoloso,nessuno
+0402,sereno,nessuno
+0424,poco nuvoloso,nessuno
+0403,poco nuvoloso,nessuno
+0410,poco nuvoloso,nessuno
+0422,sereno,nessuno
+0428,pioggia debole,nessunopioggia
+0430,nubi sparse,nessuno
+0330,poco nuvoloso,nessunopioggia
+0331,nubi sparse,nessuno
+0408,poco nuvoloso,nessuno
+0427,coperto,nessunopioggia temporale
+0328,poco nuvoloso,nessuno

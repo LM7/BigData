@@ -61,3 +61,5 @@
 0428,pioggia e schiarite,nessunopioggia
 0430,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
+0307,poco nuvoloso,nessuno
+0405,coperto,nessunopioggia

@@ -40,3 +40,26 @@
 0429,nubi sparse,nessuno
 0503,poco nuvoloso,nessunonebbia
 0406,nubi sparse,nessuno
+0323,coperto,nessuno
+0310,poco nuvoloso,nessuno
+0315,nubi sparse,nessunopioggia
+0303,nebbia,nessunonebbia
+0311,poco nuvoloso,nessuno
+0304,poco nuvoloso,nessunopioggia
+0317,pioggia e schiarite,nessunopioggia
+0318,poco nuvoloso,nessuno
+0314,poco nuvoloso,nessuno
+0312,poco nuvoloso,nessunopioggia
+0305,coperto,nessunopioggia
+0306,nubi sparse,nessuno
+0309,poco nuvoloso,nessuno
+0307,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno
+0313,poco nuvoloso,nessuno
+0316,coperto,nessunopioggia
+0319,poco nuvoloso,nessuno
+0302,coperto,nessunopioggia
+0301,poco nuvoloso,nessuno
+0321,poco nuvoloso,nessuno
+0322,nubi sparse,nessunopioggia
+0308,poco nuvoloso,nessuno

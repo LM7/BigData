@@ -1,0 +1,7 @@
+
+0329,,nessuno
+0401,poco nuvoloso,nessuno
+0406,,nessuno
+0416,poco nuvoloso,nessuno
+0413,poco nuvoloso,nessuno
+0418,,nessuno

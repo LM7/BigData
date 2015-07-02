@@ -1,0 +1,12 @@
+
+0420,poco nuvoloso,nessuno
+0302,nubi sparse,nessunopioggia
+0301,poco nuvoloso,nessuno
+0303,poco nuvoloso,nessuno
+0305,nubi sparse,nessunopioggia
+0306,poco nuvoloso,nessuno
+0307,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0314,poco nuvoloso,nessuno
+0318,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno

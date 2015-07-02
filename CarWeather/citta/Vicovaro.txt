@@ -1,0 +1,7 @@
+
+0405,,nessuno
+0501,,nessuno
+0416,poco nuvoloso,nessuno
+0326,nubi sparse,nessunopioggia temporale
+0423,poco nuvoloso,nessuno
+0403,poco nuvoloso,nessuno

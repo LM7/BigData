@@ -33,3 +33,34 @@
 0410,sereno,nessuno
 0411,,nessuno
 0420,sereno,nessunonebbia
+0324,pioggia debole,nessunopioggia
+0404,,nessuno
+0426,,nessuno
+0326,nubi sparse,nessunopioggia
+0401,sereno,nessuno
+0502,,nessuno
+0329,,nessuno
+0320,nubi sparse,nessuno
+0306,sereno,nessuno
+0323,nebbia,nessunonebbia
+0303,sereno,nessuno
+0305,sereno,nessuno
+0313,sereno,nessuno
+0316,sereno,nessunopioggia
+0308,,nessuno
+0312,sereno,nessuno
+0319,nubi sparse,nessuno
+0310,poco nuvoloso,nessuno
+0311,nebbia,nessuno
+0321,,nessuno
+0309,sereno,nessuno
+0314,,nessuno
+0317,coperto,nessunopioggia
+0304,nebbia,nessunonebbia
+0318,nebbia,nessunonebbia
+0302,nubi sparse,nessuno
+0307,,nessuno
+0301,,nessuno
+0322,,nessuno
+0315,,nessuno
+0228,,nessuno

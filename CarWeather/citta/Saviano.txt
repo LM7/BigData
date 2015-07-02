@@ -40,3 +40,22 @@
 0501,poco nuvoloso,nessuno
 0502,poco nuvoloso,nessuno
 0503,poco nuvoloso,nessuno
+0303,nebbia,nessunonebbia
+0307,nubi sparse,nessuno
+0311,sereno,nessuno
+0323,coperto,nessuno
+0310,poco nuvoloso,nessuno
+0319,coperto,nessuno
+0318,poco nuvoloso,nessuno
+0316,coperto,nessuno
+0317,coperto,nessunopioggia
+0302,coperto,nessunopioggia
+0309,poco nuvoloso,nessuno
+0305,coperto,nessunopioggia
+0320,poco nuvoloso,nessuno
+0304,pioggia debole,nessunopioggia
+0312,coperto,nessunopioggia
+0313,nubi sparse,nessuno
+0314,nubi sparse,nessuno
+0321,sereno,nessuno
+0306,nubi sparse,nessunopioggia

@@ -39,3 +39,25 @@
 0331,poco nuvoloso,nessuno
 0401,sereno,nessuno
 0424,poco nuvoloso,nessuno
+0503,,nessuno
+0311,nebbia,nessuno
+0302,nubi sparse,nessuno
+0318,nebbia,nessunonebbia
+0320,nubi sparse,nessuno
+0312,sereno,nessuno
+0319,nubi sparse,nessuno
+0310,poco nuvoloso,nessuno
+0309,sereno,nessuno
+0313,sereno,nessuno
+0317,coperto,nessunopioggia
+0316,sereno,nessunopioggia
+0321,,nessuno
+0308,,nessuno
+0305,sereno,nessuno
+0306,sereno,nessuno
+0323,nebbia,nessunonebbia
+0307,,nessuno
+0303,sereno,nessuno
+0304,nebbia,nessunonebbia
+0301,,nessuno
+0314,,nessuno

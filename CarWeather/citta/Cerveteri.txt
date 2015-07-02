@@ -52,3 +52,14 @@
 0428,coperto,nessunopioggia
 0429,poco nuvoloso,nessunonebbia
 0502,poco nuvoloso,nessunopioggia
+0305,sereno,nessunopioggia
+0320,poco nuvoloso,nessuno
+0410,poco nuvoloso,nessuno
+0420,poco nuvoloso,nessuno
+0408,sereno,nessuno
+0409,sereno,nessuno
+0416,nebbia,nessunonebbia
+0306,sereno,nessuno
+0425,nebbia,nessunonebbia
+0319,nebbia,nessunonebbia
+0405,coperto,nessunopioggia temporale
