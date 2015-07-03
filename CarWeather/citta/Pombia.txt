@@ -1,0 +1,5 @@
+
+0331,poco nuvoloso,nessuno
+0324,pioggia debole,nessunopioggia
+0424,poco nuvoloso,nessuno
+0426,,nessuno

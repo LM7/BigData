@@ -1,0 +1,4 @@
+
+0330,poco nuvoloso,nessunopioggia
+0408,nubi sparse,nessuno
+0327,temporale,nessunotemporale

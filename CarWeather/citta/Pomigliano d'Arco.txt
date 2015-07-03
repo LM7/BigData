@@ -1,0 +1,22 @@
+
+0423,nubi sparse,nessuno
+0324,nubi sparse,nessuno
+0325,coperto,nessunopioggia
+0326,poco nuvoloso,nessuno
+0327,coperto,nessuno
+0328,poco nuvoloso,nessuno
+0329,sereno,nessuno
+0331,nubi sparse,nessuno
+0401,coperto,nessuno
+0407,nubi sparse,nessuno
+0408,nubi sparse,nessuno
+0409,poco nuvoloso,nessuno
+0410,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0413,sereno,nessuno
+0414,nubi sparse,nessuno
+0415,nubi sparse,nessuno
+0416,poco nuvoloso,nessuno
+0417,poco nuvoloso,nessunopioggia
+0418,nubi sparse,nessuno
+0419,poco nuvoloso,nessuno

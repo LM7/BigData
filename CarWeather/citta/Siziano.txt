@@ -1,0 +1,4 @@
+
+0326,pioggia e schiarite,nessunopioggia
+0324,coperto,nessunopioggia
+0407,sereno,nessuno

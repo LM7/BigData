@@ -1,0 +1,7 @@
+
+0303,poco nuvoloso,nessuno
+0307,poco nuvoloso,nessuno
+0310,poco nuvoloso,nessuno
+0311,poco nuvoloso,nessuno
+0315,nubi sparse,nessunopioggia
+0317,pioggia debole,nessunopioggia

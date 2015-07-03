@@ -1,0 +1,3 @@
+
+0410,sereno,nessuno
+0414,poco nuvoloso,nessuno

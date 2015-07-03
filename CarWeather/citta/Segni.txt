@@ -1,0 +1,10 @@
+
+0301,poco nuvoloso,nessuno
+0304,nubi sparse,nessunopioggia nebbia
+0310,poco nuvoloso,nessuno
+0311,poco nuvoloso,nessuno
+0322,coperto,nessunopioggia
+0414,poco nuvoloso,nessuno
+0415,nebbia,nessunonebbia
+0418,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno

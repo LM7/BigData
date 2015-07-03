@@ -1,0 +1,15 @@
+
+0325,pioggia debole,nessunopioggia
+0326,pioggia e schiarite,nessunopioggia
+0331,poco nuvoloso,nessuno
+0402,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0414,poco nuvoloso,nessuno
+0417,nubi sparse,nessunopioggia
+0421,sereno,nessuno
+0423,sereno,nessuno
+0425,nubi sparse,nessuno
+0428,poco nuvoloso,nessunopioggia
+0430,coperto,nessunopioggia temporale
+0501,pioggia debole,nessunopioggia
+0502,poco nuvoloso,nessunopioggia nebbia

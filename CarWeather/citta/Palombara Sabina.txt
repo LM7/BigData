@@ -1,0 +1,12 @@
+
+0420,poco nuvoloso,nessuno
+0421,poco nuvoloso,nessuno
+0423,poco nuvoloso,nessuno
+0424,nubi sparse,nessuno
+0425,,nessuno
+0426,poco nuvoloso,nessuno
+0427,pioggia debole,nessunopioggia
+0428,coperto,nessunopioggia
+0501,,nessuno
+0502,,nessuno
+0503,,nessuno

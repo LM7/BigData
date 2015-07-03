@@ -1,0 +1,4 @@
+
+0410,sereno,nessuno
+0421,poco nuvoloso,nessuno
+0430,nubi sparse,nessuno

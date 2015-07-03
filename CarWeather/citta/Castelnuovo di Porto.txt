@@ -1,0 +1,5 @@
+
+0315,nubi sparse,nessunopioggia
+0321,poco nuvoloso,nessuno
+0405,coperto,nessunopioggia
+0406,poco nuvoloso,nessuno

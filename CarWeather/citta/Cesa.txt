@@ -1,0 +1,3 @@
+
+0417,poco nuvoloso,nessunopioggia
+0427,coperto,nessunopioggia
