@@ -1,0 +1,7 @@
+
+0406,nubi sparse,nessuno
+0309,poco nuvoloso,nessuno
+0407,poco nuvoloso,nessuno
+0414,poco nuvoloso,nessuno
+0430,coperto,nessuno
+0320,poco nuvoloso,nessuno

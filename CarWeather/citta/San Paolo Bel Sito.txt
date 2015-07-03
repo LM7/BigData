@@ -1,0 +1,4 @@
+
+0324,nubi sparse,nessuno
+0331,nubi sparse,nessuno
+0417,poco nuvoloso,nessunopioggia

@@ -1,0 +1,4 @@
+
+0402,sereno,nessuno
+0411,,nessuno
+0424,poco nuvoloso,nessuno

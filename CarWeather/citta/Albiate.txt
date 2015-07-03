@@ -1,0 +1,4 @@
+
+0326,pioggia e schiarite,nessunopioggia
+0411,poco nuvoloso,nessuno
+0430,coperto,nessunopioggia temporale

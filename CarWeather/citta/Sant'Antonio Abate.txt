@@ -1,0 +1,5 @@
+
+0417,poco nuvoloso,nessuno
+0420,nubi sparse,nessuno
+0427,poco nuvoloso,nessunopioggia
+0428,poco nuvoloso,nessunopioggia temporale

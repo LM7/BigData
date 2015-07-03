@@ -1,0 +1,3 @@
+
+0401,poco nuvoloso,nessuno
+0428,poco nuvoloso,nessunopioggia temporale

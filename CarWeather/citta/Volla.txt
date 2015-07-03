@@ -1,0 +1,4 @@
+
+0418,nubi sparse,nessuno
+0428,pioggia debole,nessunopioggia temporale
+0327,coperto,nessuno

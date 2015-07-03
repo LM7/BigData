@@ -1,0 +1,4 @@
+
+0311,sereno,nessuno
+0426,nebbia,nessunonebbia
+0407,poco nuvoloso,nessuno

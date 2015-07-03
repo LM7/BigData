@@ -1,0 +1,5 @@
+
+0428,pioggia e schiarite,nessunopioggia
+0429,coperto,nessunopioggia
+0416,poco nuvoloso,nessuno
+0417,coperto,nessunopioggia

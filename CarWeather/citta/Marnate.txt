@@ -1,0 +1,5 @@
+
+0325,pioggia debole,nessunopioggia
+0328,poco nuvoloso,nessuno
+0414,sereno,nessuno
+0422,sereno,nessuno

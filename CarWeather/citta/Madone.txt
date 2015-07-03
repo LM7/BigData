@@ -1,0 +1,15 @@
+
+0327,nebbia,nessunonebbia
+0328,sereno,nessuno
+0401,sereno,nessuno
+0405,coperto,nessunopioggia temporale
+0407,sereno,nessuno
+0409,sereno,nessuno
+0411,poco nuvoloso,nessuno
+0413,sereno,nessuno
+0414,poco nuvoloso,nessuno
+0415,sereno,nessuno
+0420,sereno,nessuno
+0421,sereno,nessuno
+0423,poco nuvoloso,nessuno
+0429,nubi sparse,nessunopioggia temporale

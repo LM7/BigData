@@ -1,0 +1,8 @@
+
+0423,sereno,nessuno
+0414,poco nuvoloso,nessuno
+0324,,nessuno
+0325,,nessuno
+0326,,nessuno
+0330,,nessuno
+0401,,nessuno

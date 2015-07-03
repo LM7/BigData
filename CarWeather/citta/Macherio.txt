@@ -1,0 +1,16 @@
+
+0424,poco nuvoloso,nessuno
+0426,coperto,nessunopioggia
+0404,coperto,nessunopioggia
+0412,sereno,nessuno
+0419,poco nuvoloso,nessuno
+0429,nubi sparse,nessunopioggia
+0402,sereno,nessuno
+0409,sereno,nessuno
+0413,sereno,nessunonebbia
+0414,poco nuvoloso,nessuno
+0418,nebbia,nessunopioggia temporale
+0422,sereno,nessuno
+0430,coperto,nessunopioggia temporale
+0502,poco nuvoloso,nessunopioggia nebbia
+0405,,nessuno

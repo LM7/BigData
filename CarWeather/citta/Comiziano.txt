@@ -1,0 +1,4 @@
+
+0411,poco nuvoloso,nessuno
+0414,nubi sparse,nessuno
+0502,poco nuvoloso,nessuno

@@ -1,0 +1,4 @@
+
+0330,nubi sparse,nessunopioggia
+0407,nubi sparse,nessuno
+0415,nubi sparse,nessuno

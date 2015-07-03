@@ -1,0 +1,4 @@
+
+0415,nubi sparse,nessuno
+0418,nubi sparse,nessuno
+0327,coperto,nessuno

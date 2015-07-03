@@ -1,0 +1,6 @@
+
+0417,coperto,nessunopioggia
+0324,coperto,nessuno
+0326,nubi sparse,nessunopioggia
+0409,sereno,nessuno
+0414,poco nuvoloso,nessuno
