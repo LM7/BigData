@@ -19,3 +19,41 @@
 0425,nubi sparse,nessuno
 0501,pioggia debole,nessunopioggia
 0503,coperto,nessunopioggia
+0410,sereno,nessuno
+0413,sereno,nessunonebbia
+0408,sereno,nessuno
+0427,pioggia debole,nessunopioggia
+0502,poco nuvoloso,nessunopioggia nebbia
+0325,pioggia debole,nessunopioggia
+0404,coperto,nessunopioggia
+0324,coperto,nessunopioggia
+0328,sereno,nessuno
+0330,poco nuvoloso,nessuno
+0401,sereno,nessuno
+0412,sereno,nessuno
+0426,coperto,nessunopioggia
+0428,poco nuvoloso,nessunopioggia
+0429,nubi sparse,nessunopioggia
+0409,sereno,nessuno
+0430,coperto,nessunopioggia temporale
+0329,poco nuvoloso,nessuno
+0416,poco nuvoloso,nessuno
+0420,nebbia,nessunonebbia
+0405,pioggia debole,nessunopioggia
+0303,sereno,nessuno
+0316,sereno,nessunopioggia
+0320,,nessuno
+0317,,nessuno
+0318,,nessuno
+0302,,nessuno
+0304,,nessuno
+0305,,nessuno
+0306,,nessuno
+0309,,nessuno
+0310,,nessuno
+0311,,nessuno
+0313,,nessuno
+0319,,nessuno
+0323,,nessuno
+0312,sereno,nessuno
+0308,sereno,nessuno
