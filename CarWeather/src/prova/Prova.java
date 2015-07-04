@@ -2,13 +2,40 @@ package prova;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
+import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileReader;
 import java.io.FileWriter;
+import java.io.InputStreamReader;
 
 import takeMeteo.ilMeteo;
 
 public class Prova {
 	
+	public static void main(String[] args) throws Exception {
+		//BufferedReader reader = new BufferedReader(new FileReader("DatasetMobility.txt"));
+		
+		File path = new File("DatasetMobility.txt");
+		BufferedReader reader = new BufferedReader(
+				   new InputStreamReader(
+		                      new FileInputStream(path), "UTF8"));
+		String line = reader.readLine();
+		int i = 0;
+		while (line!=null){
+			String[] splits = line.split(",");		
+			String[] res = ilMeteo.findMeteo(splits[11],splits[8]);
+			System.out.println("Num: "+i);
+			System.out.println("TEMPO "+res[0]+" CITTA "+splits[11]);
+			i++;
+			line = reader.readLine();
+		}
+		
+		reader.close();
+
+		System.out.println("DONE");	
+	}
+	
+	/*
 	public static void main(String[] args) throws Exception {
 		BufferedReader reader = new BufferedReader(new FileReader("DatasetMobility.txt"));
 		String line = reader.readLine();
@@ -30,6 +57,7 @@ public class Prova {
 
 		System.out.println("DONE");	
 	}
+	*/
 
 	/*
 	public static void main(String[] args) throws Exception {
