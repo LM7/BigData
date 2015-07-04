@@ -1,2 +1,10 @@
 
 0422,sereno,nessuno
+0418,,nessuno
+0304,nebbia,nessunonebbia
+0412,,nessuno
+0406,,nessuno
+0401,sereno,nessuno
+0503,,nessuno
+0324,pioggia debole,nessunopioggia
+0329,,nessuno

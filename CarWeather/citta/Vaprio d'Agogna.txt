@@ -1,2 +1,7 @@
 
 0501,coperto,nessunopioggia
+0411,,nessuno
+0418,,nessuno
+0413,sereno,nessunonebbia
+0408,sereno,nessuno
+0420,sereno,nessunonebbia
