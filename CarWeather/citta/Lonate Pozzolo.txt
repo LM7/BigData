@@ -40,3 +40,26 @@
 0330,poco nuvoloso,nessunonebbia
 0429,coperto,nessunopioggia
 0401,sereno,nessuno
+0312,sereno,nessuno
+0304,nebbia,nessunonebbia
+0305,sereno,nessuno
+0320,,nessuno
+0302,,nessuno
+0303,,nessuno
+0310,,nessuno
+0311,,nessuno
+0316,,nessuno
+0319,,nessuno
+0323,,nessuno
+0313,sereno,nessuno
+0321,,nessuno
+0306,sereno,nessuno
+0317,coperto,nessunopioggia
+0318,nebbia,nessunonebbia
+0307,,nessuno
+0309,sereno,nessuno
+0314,,nessuno
+0315,,nessuno
+0322,,nessuno
+0301,,nessuno
+0308,,nessuno
