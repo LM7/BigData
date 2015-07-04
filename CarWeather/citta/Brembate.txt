@@ -12,3 +12,54 @@
 0329,sereno,nessuno
 0412,sereno,nessuno
 0414,poco nuvoloso,nessuno
+0416,nubi sparse,nessunopioggia
+0421,sereno,nessuno
+0410,poco nuvoloso,nessuno
+0430,coperto,nessunopioggia
+0408,sereno,nessuno
+0413,sereno,nessuno
+0417,coperto,nessunopioggia
+0424,poco nuvoloso,nessuno
+0425,nubi sparse,nessuno
+0429,nubi sparse,nessunopioggia temporale
+0326,nubi sparse,nessunopioggia
+0330,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno
+0407,sereno,nessuno
+0409,sereno,nessuno
+0415,sereno,nessuno
+0422,sereno,nessuno
+0404,coperto,nessuno
+0402,sereno,nessuno
+0406,nubi sparse,nessuno
+0405,coperto,nessunopioggia temporale
+0423,poco nuvoloso,nessuno
+0420,sereno,nessuno
+0501,coperto,nessunopioggia
+0324,,nessuno
+0427,,nessuno
+0331,poco nuvoloso,nessuno
+0426,coperto,nessunopioggia
+0302,poco nuvoloso,nessuno
+0316,pioggia debole,nessunopioggia
+0319,poco nuvoloso,nessuno
+0323,poco nuvoloso,nessuno
+0306,sereno,nessuno
+0318,nubi sparse,nessuno
+0303,poco nuvoloso,nessuno
+0304,pioggia e schiarite,nessunopioggia
+0305,nubi sparse,nessuno
+0312,poco nuvoloso,nessuno
+0314,coperto,nessuno
+0317,coperto,nessunopioggia
+0301,poco nuvoloso,nessuno
+0309,sereno,nessuno
+0311,poco nuvoloso,nessuno
+0310,sereno,nessuno
+0313,sereno,nessuno
+0307,sereno,nessuno
+0320,nubi sparse,nessuno
+0315,coperto,nessuno
+0321,coperto,nessunopioggia
+0322,coperto,nessunopioggia
+0308,sereno,nessuno

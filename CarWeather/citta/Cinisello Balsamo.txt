@@ -39,3 +39,27 @@
 0404,coperto,nessunopioggia
 0415,sereno,nessuno
 0417,nubi sparse,nessunopioggia
+0502,poco nuvoloso,nessunopioggia nebbia
+0310,sereno,nessuno
+0313,poco nuvoloso,nessuno
+0319,poco nuvoloso,nessunonebbia
+0323,nebbia,nessunonebbia
+0309,,nessuno
+0303,sereno,nessuno
+0318,,nessuno
+0317,,nessuno
+0302,pioggia e schiarite,nessunopioggia
+0311,poco nuvoloso,nessuno
+0314,,nessuno
+0305,,nessuno
+0312,,nessuno
+0316,,nessuno
+0306,,nessuno
+0307,sereno,nessuno
+0308,sereno,nessuno
+0320,nubi sparse,nessuno
+0304,nebbia,nessunopioggia nebbia
+0321,coperto,nessunopioggia
+0322,pioggia debole,nessunopioggia
+0301,nebbia,nessunonebbia
+0315,nubi sparse,nessunopioggia
