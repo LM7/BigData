@@ -59,3 +59,7 @@
 0501,nebbia,nessunonebbia
 0502,nubi sparse,nessuno
 0503,poco nuvoloso,nessuno
+0308,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno
+0330,poco nuvoloso,nessuno
+0422,poco nuvoloso,nessuno
