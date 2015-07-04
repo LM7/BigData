@@ -1,0 +1,8 @@
+
+0401,sereno,nessuno
+0408,sereno,nessuno
+0409,sereno,nessuno
+0417,nubi sparse,nessunopioggia
+0423,sereno,nessuno
+0425,nubi sparse,nessuno
+0413,sereno,nessunonebbia

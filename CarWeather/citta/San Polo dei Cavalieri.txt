@@ -1,0 +1,4 @@
+
+0310,sereno,nessuno
+0317,,nessuno
+0329,sereno,nessuno

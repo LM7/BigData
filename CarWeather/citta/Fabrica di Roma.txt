@@ -1,0 +1,4 @@
+
+0418,nebbia,nessunonebbia
+0422,poco nuvoloso,nessuno
+0306,poco nuvoloso,nessuno

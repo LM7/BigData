@@ -1,0 +1,16 @@
+
+0405,,nessuno
+0311,poco nuvoloso,nessuno
+0301,,nessuno
+0303,poco nuvoloso,nessuno
+0307,,nessuno
+0308,,nessuno
+0309,poco nuvoloso,nessuno
+0310,poco nuvoloso,nessuno
+0313,poco nuvoloso,nessuno
+0314,,nessuno
+0317,pioggia debole,nessunopioggia
+0318,nubi sparse,nessuno
+0319,poco nuvoloso,nessuno
+0320,poco nuvoloso,nessuno
+0418,,nessuno

@@ -1,0 +1,7 @@
+
+0328,sereno,nessuno
+0409,sereno,nessuno
+0414,poco nuvoloso,nessuno
+0415,sereno,nessuno
+0426,coperto,nessunopioggia
+0330,poco nuvoloso,nessuno

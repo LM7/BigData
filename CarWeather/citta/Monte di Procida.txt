@@ -1,0 +1,12 @@
+
+0329,sereno,nessuno
+0405,coperto,nessunopioggia temporale
+0407,nubi sparse,nessuno
+0409,poco nuvoloso,nessuno
+0411,poco nuvoloso,nessuno
+0425,poco nuvoloso,nessuno
+0426,poco nuvoloso,nessuno
+0501,poco nuvoloso,nessuno
+0503,poco nuvoloso,nessuno
+0419,poco nuvoloso,nessuno
+0330,nubi sparse,nessunopioggia

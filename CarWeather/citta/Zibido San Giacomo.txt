@@ -1,0 +1,6 @@
+
+0408,sereno,nessuno
+0325,pioggia debole,nessunopioggia
+0420,nebbia,nessunonebbia
+0422,sereno,nessuno
+0413,sereno,nessunonebbia

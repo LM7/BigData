@@ -1,0 +1,4 @@
+
+0418,nebbia,nessunopioggia temporale
+0502,poco nuvoloso,nessunopioggia nebbia
+0403,poco nuvoloso,nessuno
