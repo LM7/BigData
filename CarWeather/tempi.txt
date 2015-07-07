@@ -1,0 +1,71 @@
+DATALUOGOMETEOARRIVO
+
+(((((vecchio
+microsecondi: 1030261085
+secondi: 1030.261085
+minuti: 17.171018083333333)))))))))
+
+18milioni
+microsecondi: 519299906
+secondi: 519.299906
+minuti: 8.654998433333333
+
+12milioni
+microsecondi: 373540500
+secondi: 373.5405
+minuti: 6.225675
+
+6milioni
+microsecondi: 165766759
+secondi: 165.766759
+minuti: 2.7627793166666668
+
+
+LUOGOMETEOFESTIVOARRIVO
+
+((((((vecchio
+microsecondi: 1270024380
+secondi: 1270.02438
+minuti: 21.167073000000002)))))))
+
+18milioni
+microsecondi: 1059034582
+secondi: 1059.034582
+minuti: 17.65057636666666
+
+12milioni
+microsecondi: 402962862
+secondi: 402.962862
+minuti: 6.7160477
+
+6milioni
+microsecondi: 182813736
+secondi: 182.813736
+minuti: 3.0468956
+
+LUOGOMETEOORARIARRIVO
+
+(((((((vecchio
+microsecondi: 1142625838
+secondi: 1142.625838
+minuti: 19.043763966666667))))))))
+
+18milioni
+microsecondi: 675778905
+secondi: 675.778905
+minuti: 11.26298175
+
+12milioni
+microsecondi: 389965940
+secondi: 389.96594
+minuti: 6.499432333333333
+
+6milioni
+microsecondi: 200571674
+secondi: 200.571674
+minuti: 3.342861233333333
+
+
+
+
+
