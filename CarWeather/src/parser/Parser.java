@@ -161,6 +161,24 @@ public class Parser {
 		reader.close();
 	}
 	
+	public static void tagliaDataset(File file) throws IOException {
+		final int COSTANTE_TAGLIO = 12000000; //12000000 e dopo 6000000
+		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
+		String line = reader.readLine();
+		PrintWriter datiTagliati = new PrintWriter("NewDatasetMobility12.txt", "UTF-8");
+		int lap = 0;
+		while ( (line != null) && (lap <= COSTANTE_TAGLIO) ) {
+			lap++;
+			System.out.println("LAP "+lap);
+			if (lap <= COSTANTE_TAGLIO) {
+				datiTagliati.println(line);
+			}
+			line = reader.readLine();
+		}
+		datiTagliati.close();
+		reader.close();
+	}
+	
 	public static void main(String[] args) throws IOException {
 		//File file = new File("province.txt");
 		//File file = new File("DatasetMobility.txt");
@@ -172,8 +190,8 @@ public class Parser {
 		for (int i=0; i <parole.length; i++) {
 			System.out.println(i+": "+parole[i]);
 		}*/
-		File file = new File("DatasetMobility.txt");
-		Parser.newDataset(file);
+		File file = new File("NewDatasetMobility.txt");
+		Parser.tagliaDataset(file);
 	}
 
 }
