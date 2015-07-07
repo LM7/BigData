@@ -2,6 +2,7 @@ package parser;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -132,17 +133,47 @@ public class Parser {
 		
 	}
 	
+	
+	public static void newDataset(File file) throws IOException {
+		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
+		String line = reader.readLine();
+		PrintWriter datiGiusti = new PrintWriter("NewDatasetMobility.txt", "UTF-8");
+		PrintWriter lineeBrutte = new PrintWriter("LineeBrutte.txt", "UTF-8");
+		int lap = 0;
+		while (line != null) {
+			lap++;
+			System.out.println("LAP "+lap);
+			String[] splits = line.split(",");
+			if ( splits[2] == null || splits[2].equals(" ") || splits[2].equals("") ||
+					splits[5] == null || splits[5].equals(" ") || splits[5].equals("") ||
+					splits[8] == null || splits[8].equals(" ") || splits[8].equals("") ||
+					splits[11] == null || splits[11].equals(" ") || splits[11].equals("") ) {
+				lineeBrutte.println(lap);
+				lineeBrutte.println(line);
+			}
+			else {
+				datiGiusti.println(line);
+			}
+			line = reader.readLine();
+		}
+		lineeBrutte.close();
+		datiGiusti.close();
+		reader.close();
+	}
+	
 	public static void main(String[] args) throws IOException {
 		//File file = new File("province.txt");
 		//File file = new File("DatasetMobility.txt");
 		//Parser.fileToProv(file);
 		//Parser.fileToRight(file);
-		String[] parole;
+		/*String[] parole;
 		String text = "3,1,20150302220013,U,00169,Roma,RM,3,2015032221157,U,00043,Ciampino,RM,3,11500,16,13,3";
 		parole = Parser.oneLineToArray(text);
 		for (int i=0; i <parole.length; i++) {
 			System.out.println(i+": "+parole[i]);
-		}
+		}*/
+		File file = new File("DatasetMobility.txt");
+		Parser.newDataset(file);
 	}
 
 }
