@@ -56,3 +56,4 @@
 0501,pioggia debole,nessunopioggia
 0419,poco nuvoloso,nessuno
 0302,pioggia e schiarite,nessunopioggia
+0318,nebbia,nessunonebbia

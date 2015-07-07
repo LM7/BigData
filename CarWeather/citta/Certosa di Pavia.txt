@@ -56,3 +56,4 @@
 0301,nebbia,nessunonebbia
 0321,coperto,nessunopioggia
 0318,nebbia,nessunonebbia
+0310,sereno,nessuno

@@ -58,3 +58,4 @@
 0305,nubi sparse,nessunonebbia
 0322,pioggia debole,nessunopioggia
 0313,poco nuvoloso,nessuno
+0307,sereno,nessuno

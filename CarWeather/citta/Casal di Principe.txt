@@ -62,3 +62,4 @@
 0301,poco nuvoloso,nessuno
 0322,nubi sparse,nessunopioggia
 0315,nubi sparse,nessunopioggia
+0228,,nessuno

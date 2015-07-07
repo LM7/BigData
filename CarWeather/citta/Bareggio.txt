@@ -60,3 +60,4 @@
 0321,coperto,nessunopioggia
 0307,sereno,nessuno
 0301,nebbia,nessunonebbia
+0228,,nessuno

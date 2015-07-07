@@ -63,3 +63,4 @@
 0314,nubi sparse,nessuno
 0308,poco nuvoloso,nessuno
 0315,nubi sparse,nessunopioggia
+0228,,nessuno

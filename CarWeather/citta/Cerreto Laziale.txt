@@ -35,3 +35,4 @@
 0312,poco nuvoloso,nessuno
 0424,poco nuvoloso,nessuno
 0403,poco nuvoloso,nessuno
+0415,poco nuvoloso,nessuno

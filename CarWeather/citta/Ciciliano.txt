@@ -24,3 +24,5 @@
 0305,,nessuno
 0302,coperto,nessuno
 0330,poco nuvoloso,nessuno
+0303,poco nuvoloso,nessunonebbia
+0306,poco nuvoloso,nessuno

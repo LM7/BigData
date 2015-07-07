@@ -59,3 +59,5 @@
 0320,sereno,nessuno
 0309,sereno,nessuno
 0314,poco nuvoloso,nessuno
+0303,nubi sparse,nessuno
+0316,coperto,nessunopioggia

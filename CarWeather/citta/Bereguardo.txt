@@ -58,3 +58,4 @@
 0314,nubi sparse,nessuno
 0304,nebbia,nessunopioggia nebbia
 0312,sereno,nessuno
+0321,coperto,nessunopioggia

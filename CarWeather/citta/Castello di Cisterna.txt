@@ -61,3 +61,5 @@
 0310,,nessuno
 0302,,nessuno
 0322,nubi sparse,nessunopioggia
+0315,nubi sparse,nessunopioggia
+0228,,nessuno

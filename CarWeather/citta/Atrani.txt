@@ -43,3 +43,4 @@
 0411,sereno,nessuno
 0324,poco nuvoloso,nessuno
 0310,poco nuvoloso,nessuno
+0330,nubi sparse,nessunopioggia
