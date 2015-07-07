@@ -162,10 +162,10 @@ public class Parser {
 	}
 	
 	public static void tagliaDataset(File file) throws IOException {
-		final int COSTANTE_TAGLIO = 12000000; //12000000 e dopo 6000000
+		final int COSTANTE_TAGLIO = 6000000; //12000000 e dopo 6000000
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
 		String line = reader.readLine();
-		PrintWriter datiTagliati = new PrintWriter("NewDatasetMobility12.txt", "UTF-8");
+		PrintWriter datiTagliati = new PrintWriter("NewDatasetMobility6.txt", "UTF-8");
 		int lap = 1;
 		while ( (line != null) && (lap <= COSTANTE_TAGLIO) ) {
 			System.out.println("LAP "+lap);
