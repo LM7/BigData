@@ -31,7 +31,7 @@ public class LuogoMeteoFestivoArrivo {
 	public static void main(String[] args) {
 		long start = System.nanoTime();
 		Logger.getLogger("org").setLevel(Level.OFF);
-		String logFile = "NewDatasetMobility.txt"; // Settare il path del file di input
+		String logFile = "NewDatasetMobility12.txt"; // Settare il path del file di input
 		SparkConf conf = new SparkConf().setAppName("Word Count Application").setMaster("local[*]");
 		JavaSparkContext spark = new JavaSparkContext(conf);
 		JavaRDD<String> textFile = spark.textFile(logFile);
@@ -43,8 +43,8 @@ public class LuogoMeteoFestivoArrivo {
 				System.out.println("LAP "+i);
 				String festa;
 				String[] arrayLine = Parser.oneLineToArray(line);
-				System.out.println("CITTA': "+arrayLine[9]);
-				System.out.println("DATA: "+arrayLine[6]);
+				//System.out.println("CITTA': "+arrayLine[9]);
+				//System.out.println("DATA: "+arrayLine[6]);
 				String[] datiMeteo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
 				if (datiMeteo == null || datiMeteo[0].equals("") ) {
 					datiMeteo = new String[1];
