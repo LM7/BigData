@@ -166,14 +166,14 @@ public class Parser {
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
 		String line = reader.readLine();
 		PrintWriter datiTagliati = new PrintWriter("NewDatasetMobility12.txt", "UTF-8");
-		int lap = 0;
+		int lap = 1;
 		while ( (line != null) && (lap <= COSTANTE_TAGLIO) ) {
-			lap++;
 			System.out.println("LAP "+lap);
 			if (lap <= COSTANTE_TAGLIO) {
 				datiTagliati.println(line);
 			}
 			line = reader.readLine();
+			lap++;
 		}
 		datiTagliati.close();
 		reader.close();
