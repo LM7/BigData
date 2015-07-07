@@ -62,3 +62,4 @@
 0321,sereno,nessuno
 0301,poco nuvoloso,nessuno
 0322,nubi sparse,nessunopioggia
+0308,poco nuvoloso,nessuno

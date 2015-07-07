@@ -51,3 +51,4 @@
 0302,pioggia e schiarite,nessunopioggia
 0312,sereno,nessuno
 0405,pioggia debole,nessunopioggia
+0323,nebbia,nessunonebbia

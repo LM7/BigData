@@ -57,3 +57,4 @@
 0414,sereno,nessuno
 0429,nubi sparse,nessuno
 0422,sereno,nessuno
+0331,sereno,nessuno

@@ -62,3 +62,4 @@
 0316,pioggia debole,nessunopioggia
 0322,coperto,nessunopioggia
 0315,coperto,nessuno
+0308,sereno,nessuno

@@ -57,3 +57,7 @@
 0316,sereno,nessunopioggia
 0322,,nessuno
 0314,,nessuno
+0307,,nessuno
+0305,sereno,nessuno
+0315,,nessuno
+0321,,nessuno

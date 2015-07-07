@@ -61,3 +61,4 @@
 0419,poco nuvoloso,nessuno
 0414,sereno,nessuno
 0323,nubi sparse,nessuno
+0305,coperto,nessunopioggia

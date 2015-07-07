@@ -44,3 +44,5 @@
 0320,nubi sparse,nessuno
 0302,pioggia e schiarite,nessunopioggia
 0304,nebbia,nessunopioggia nebbia
+0303,sereno,nessuno
+0313,poco nuvoloso,nessuno

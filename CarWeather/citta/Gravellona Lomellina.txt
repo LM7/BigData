@@ -50,3 +50,4 @@
 0303,sereno,nessuno
 0310,poco nuvoloso,nessuno
 0313,sereno,nessuno
+0304,nebbia,nessunonebbia

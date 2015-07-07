@@ -56,3 +56,5 @@
 0310,sereno,nessuno
 0306,sereno,nessuno
 0314,nubi sparse,nessuno
+0312,sereno,nessuno
+0316,sereno,nessunopioggia

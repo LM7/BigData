@@ -59,3 +59,4 @@
 0314,coperto,nessunopioggia
 0316,pioggia debole,nessunopioggia
 0320,coperto,nessuno
+0322,coperto,nessunopioggia

@@ -40,3 +40,5 @@
 0413,sereno,nessunonebbia
 0418,,nessuno
 0406,,nessuno
+0310,poco nuvoloso,nessuno
+0305,sereno,nessuno

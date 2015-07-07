@@ -38,3 +38,4 @@
 0424,poco nuvoloso,nessuno
 0503,pioggia debole,nessunopioggia nebbia
 0401,sereno,nessuno
+0418,nubi sparse,nessunopioggia nebbia

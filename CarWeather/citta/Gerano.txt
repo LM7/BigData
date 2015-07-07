@@ -20,3 +20,5 @@
 0308,,nessuno
 0428,coperto,nessunopioggia
 0321,,nessuno
+0312,poco nuvoloso,nessuno
+0306,sereno,nessuno
