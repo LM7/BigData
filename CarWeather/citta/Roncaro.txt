@@ -40,3 +40,4 @@
 0325,pioggia debole,nessunopioggia
 0419,poco nuvoloso,nessuno
 0423,sereno,nessuno
+0318,nebbia,nessunonebbia

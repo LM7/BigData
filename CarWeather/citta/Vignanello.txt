@@ -55,3 +55,5 @@
 0420,poco nuvoloso,nessuno
 0421,sereno,nessuno
 0320,poco nuvoloso,nessuno
+0319,sereno,nessuno
+0427,coperto,nessunopioggia

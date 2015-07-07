@@ -56,3 +56,4 @@
 0317,coperto,nessunopioggia
 0319,nubi sparse,nessuno
 0304,nebbia,nessunonebbia
+0307,,nessuno

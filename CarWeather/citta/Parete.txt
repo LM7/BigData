@@ -60,3 +60,4 @@
 0305,coperto,nessunopioggia
 0317,pioggia e schiarite,nessunopioggia
 0308,poco nuvoloso,nessuno
+0316,coperto,nessunopioggia

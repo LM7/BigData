@@ -45,3 +45,4 @@
 0418,,nessuno
 0406,,nessuno
 0422,sereno,nessuno
+0415,poco nuvoloso,nessuno

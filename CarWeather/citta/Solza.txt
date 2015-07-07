@@ -53,3 +53,5 @@
 0311,poco nuvoloso,nessuno
 0319,poco nuvoloso,nessuno
 0302,poco nuvoloso,nessuno
+0306,sereno,nessuno
+0313,sereno,nessuno

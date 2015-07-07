@@ -55,3 +55,4 @@
 0317,nubi sparse,nessunopioggia
 0309,sereno,nessuno
 0322,pioggia debole,nessunopioggia
+0315,nubi sparse,nessunopioggia

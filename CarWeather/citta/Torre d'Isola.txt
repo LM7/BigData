@@ -60,3 +60,4 @@
 0317,nubi sparse,nessunopioggia
 0307,sereno,nessuno
 0322,pioggia debole,nessunopioggia
+0308,sereno,nessuno

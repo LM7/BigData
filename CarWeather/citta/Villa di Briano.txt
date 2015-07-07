@@ -60,3 +60,4 @@
 0317,pioggia e schiarite,nessunopioggia
 0320,poco nuvoloso,nessuno
 0307,poco nuvoloso,nessuno
+0309,poco nuvoloso,nessuno

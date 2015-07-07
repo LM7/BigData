@@ -63,3 +63,4 @@
 0408,poco nuvoloso,nessuno
 0427,coperto,nessunopioggia temporale
 0328,poco nuvoloso,nessuno
+0228,,nessuno

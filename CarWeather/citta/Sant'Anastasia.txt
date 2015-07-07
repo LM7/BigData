@@ -63,3 +63,4 @@
 0306,coperto,nessunopioggia
 0322,coperto,nessunopioggia
 0315,nubi sparse,nessunopioggia
+0228,,nessuno

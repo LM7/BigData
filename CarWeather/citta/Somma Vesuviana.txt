@@ -63,3 +63,4 @@
 0303,nubi sparse,nessuno
 0322,coperto,nessunopioggia
 0301,poco nuvoloso,nessuno
+0228,,nessuno

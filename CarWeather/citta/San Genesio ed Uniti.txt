@@ -59,3 +59,4 @@
 0321,coperto,nessunopioggia
 0316,sereno,nessunopioggia
 0314,nubi sparse,nessuno
+0308,sereno,nessuno
