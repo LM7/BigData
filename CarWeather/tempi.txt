@@ -65,6 +65,27 @@ microsecondi: 200571674
 secondi: 200.571674
 minuti: 3.342861233333333
 
+DATALUOGOMETEOPARTARRIVO
+
+6milioni
+microsecondi: 296792681
+secondi: 296.792681
+minuti: 4.946544683333333
+
+LUOGOMETEOFESTIVOPARTARRIVO
+
+6milioni
+microsecondi: 313249897
+secondi: 313.249897
+minuti: 5.220831616666667
+
+LUOGOMETEOORARIPARTARRIVO
+
+6milioni
+microsecondi: 335690577
+secondi: 335.690577
+minuti: 5.59484295
+
 
 
 
