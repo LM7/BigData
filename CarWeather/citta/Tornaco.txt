@@ -8,3 +8,4 @@
 0503,,nessuno
 0324,pioggia debole,nessunopioggia
 0329,,nessuno
+0419,,nessuno

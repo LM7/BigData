@@ -6,3 +6,10 @@
 0408,sereno,nessuno
 0420,sereno,nessunonebbia
 0421,sereno,nessuno
+0325,coperto,nessunopioggia
+0419,,nessuno
+0429,coperto,nessunopioggia
+0422,sereno,nessuno
+0406,,nessuno
+0412,,nessuno
+0328,,nessuno

@@ -55,3 +55,4 @@
 0315,,nessuno
 0320,nubi sparse,nessuno
 0317,coperto,nessunopioggia
+0308,,nessuno

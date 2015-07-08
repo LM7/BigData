@@ -60,3 +60,4 @@
 0322,nubi sparse,nessunopioggia
 0309,poco nuvoloso,nessuno
 0306,nubi sparse,nessunopioggia
+0313,nubi sparse,nessuno

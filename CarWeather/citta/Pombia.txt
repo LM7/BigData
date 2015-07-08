@@ -61,3 +61,4 @@
 0307,,nessuno
 0308,,nessuno
 0302,nubi sparse,nessuno
+0304,nebbia,nessunonebbia

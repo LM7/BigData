@@ -63,3 +63,4 @@
 0302,pioggia e schiarite,nessunopioggia
 0323,nebbia,nessunonebbia
 0301,nebbia,nessunonebbia
+0228,,nessuno

@@ -45,3 +45,5 @@
 0311,sereno,nessuno
 0313,nubi sparse,nessuno
 0305,coperto,nessunopioggia
+0304,pioggia debole,nessunopioggia
+0312,coperto,nessunopioggia

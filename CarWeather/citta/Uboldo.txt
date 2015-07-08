@@ -61,3 +61,4 @@
 0321,coperto,nessunopioggia
 0322,pioggia debole,nessunopioggia
 0301,nebbia,nessunonebbia
+0315,nubi sparse,nessunopioggia

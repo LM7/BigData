@@ -45,3 +45,5 @@
 0304,nebbia,nessunonebbia
 0309,sereno,nessuno
 0302,nubi sparse,nessuno
+0318,nebbia,nessunonebbia
+0310,poco nuvoloso,nessuno

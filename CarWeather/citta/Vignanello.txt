@@ -57,3 +57,5 @@
 0320,poco nuvoloso,nessuno
 0319,sereno,nessuno
 0427,coperto,nessunopioggia
+0408,poco nuvoloso,nessuno
+0310,sereno,nessuno

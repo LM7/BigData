@@ -54,3 +54,5 @@
 0303,nubi sparse,nessuno
 0310,poco nuvoloso,nessuno
 0306,coperto,nessuno
+0323,poco nuvoloso,nessuno
+0313,poco nuvoloso,nessuno

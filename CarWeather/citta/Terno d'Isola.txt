@@ -40,3 +40,4 @@
 0401,sereno,nessuno
 0501,coperto,nessunopioggia
 0312,poco nuvoloso,nessuno
+0412,sereno,nessuno

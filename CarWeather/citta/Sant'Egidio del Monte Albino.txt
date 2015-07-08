@@ -61,3 +61,4 @@
 0304,poco nuvoloso,nessunopioggia
 0322,coperto,nessunopioggia
 0308,poco nuvoloso,nessuno
+0315,nubi sparse,nessunopioggia

@@ -63,3 +63,4 @@
 0304,poco nuvoloso,nessunopioggia
 0311,sereno,nessuno
 0318,poco nuvoloso,nessuno
+0228,,nessuno

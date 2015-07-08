@@ -56,3 +56,4 @@
 0306,sereno,nessuno
 0312,sereno,nessuno
 0303,sereno,nessuno
+0318,nebbia,nessunonebbia

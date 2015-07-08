@@ -40,3 +40,4 @@
 0329,,nessuno
 0503,,nessuno
 0412,,nessuno
+0320,nubi sparse,nessuno

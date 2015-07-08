@@ -55,3 +55,4 @@
 0318,nebbia,nessunonebbia
 0319,poco nuvoloso,nessunonebbia
 0317,nubi sparse,nessunopioggia
+0316,sereno,nessunopioggia

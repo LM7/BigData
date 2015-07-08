@@ -62,3 +62,4 @@
 0308,sereno,nessuno
 0315,nubi sparse,nessunopioggia
 0228,,nessuno
+0321,coperto,nessunopioggia

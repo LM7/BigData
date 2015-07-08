@@ -53,3 +53,5 @@
 0319,poco nuvoloso,nessunonebbia
 0302,pioggia e schiarite,nessunopioggia
 0306,sereno,nessuno
+0309,sereno,nessuno
+0310,sereno,nessuno

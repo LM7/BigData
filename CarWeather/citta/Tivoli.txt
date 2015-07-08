@@ -63,3 +63,4 @@
 0401,poco nuvoloso,nessuno
 0326,nubi sparse,nessunopioggia temporale
 0425,,nessuno
+0228,,nessuno

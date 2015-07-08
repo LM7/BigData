@@ -63,3 +63,4 @@
 0323,nebbia,nessunonebbia
 0308,sereno,nessuno
 0322,pioggia debole,nessunopioggia
+0228,,nessuno

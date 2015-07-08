@@ -59,3 +59,4 @@
 0316,pioggia debole,nessunopioggia
 0321,coperto,nessunopioggia
 0320,nubi sparse,nessuno
+0307,sereno,nessuno

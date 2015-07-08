@@ -54,3 +54,4 @@
 0318,nebbia,nessunonebbia
 0323,nebbia,nessunonebbia
 0303,sereno,nessuno
+0302,pioggia e schiarite,nessunopioggia
