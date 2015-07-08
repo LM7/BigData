@@ -31,7 +31,7 @@ public class LuogoMeteoOrariPartArrivo {
 	public static void main(String[] args) {
 		long start = System.nanoTime();
 		Logger.getLogger("org").setLevel(Level.OFF);
-		String logFile = "NewDatasetMobility12.txt"; // Settare il path del file di input
+		String logFile = "NewDatasetMobility.txt"; // Settare il path del file di input
 		SparkConf conf = new SparkConf().setAppName("Word Count Application").setMaster("local[*]");
 		JavaSparkContext spark = new JavaSparkContext(conf);
 		JavaRDD<String> textFile = spark.textFile(logFile);
