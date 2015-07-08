@@ -61,3 +61,4 @@
 0305,sereno,nessuno
 0315,,nessuno
 0321,,nessuno
+0301,,nessuno

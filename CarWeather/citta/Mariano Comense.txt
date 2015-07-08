@@ -43,3 +43,4 @@
 0415,sereno,nessuno
 0329,poco nuvoloso,nessuno
 0306,sereno,nessuno
+0310,sereno,nessuno

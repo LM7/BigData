@@ -63,3 +63,4 @@
 0423,poco nuvoloso,nessuno
 0428,coperto,nessunopioggia
 0412,,nessuno
+0228,,nessuno

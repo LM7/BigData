@@ -46,3 +46,4 @@
 0319,poco nuvoloso,nessuno
 0428,poco nuvoloso,nessunopioggia temporale
 0331,poco nuvoloso,nessuno
+0327,poco nuvoloso,nessuno

@@ -52,3 +52,6 @@
 0312,sereno,nessuno
 0405,pioggia debole,nessunopioggia
 0323,nebbia,nessunonebbia
+0309,sereno,nessuno
+0318,nebbia,nessunonebbia
+0311,poco nuvoloso,nessuno

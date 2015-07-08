@@ -55,3 +55,4 @@
 0305,nubi sparse,nessuno
 0303,sereno,nessuno
 0310,sereno,nessunonebbia
+0314,coperto,nessunopioggia

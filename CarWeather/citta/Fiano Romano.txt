@@ -63,3 +63,4 @@
 0422,sereno,nessuno
 0417,poco nuvoloso,nessuno
 0421,poco nuvoloso,nessuno
+0228,,nessuno

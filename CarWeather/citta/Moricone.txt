@@ -34,3 +34,5 @@
 0322,,nessuno
 0302,pioggia e schiarite,nessunopioggia
 0325,sereno,nessunopioggia
+0402,poco nuvoloso,nessuno
+0411,,nessuno

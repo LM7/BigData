@@ -63,3 +63,4 @@
 0309,sereno,nessuno
 0311,poco nuvoloso,nessuno
 0322,pioggia debole,nessunopioggia
+0228,,nessuno

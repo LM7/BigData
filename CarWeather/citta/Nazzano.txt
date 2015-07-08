@@ -15,3 +15,5 @@
 0310,poco nuvoloso,nessuno
 0427,pioggia debole,nessunopioggia
 0317,pioggia debole,nessunopioggia
+0320,poco nuvoloso,nessuno
+0303,poco nuvoloso,nessuno

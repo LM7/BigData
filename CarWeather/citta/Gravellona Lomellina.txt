@@ -51,3 +51,6 @@
 0310,poco nuvoloso,nessuno
 0313,sereno,nessuno
 0304,nebbia,nessunonebbia
+0302,nubi sparse,nessuno
+0320,nubi sparse,nessuno
+0318,nebbia,nessunonebbia

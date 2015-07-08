@@ -53,3 +53,4 @@
 0310,sereno,nessuno
 0313,sereno,nessuno
 0323,poco nuvoloso,nessuno
+0309,sereno,nessuno

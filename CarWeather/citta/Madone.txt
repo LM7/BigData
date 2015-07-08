@@ -58,3 +58,4 @@
 0304,pioggia e schiarite,nessunopioggia
 0314,coperto,nessuno
 0321,coperto,nessunopioggia
+0307,sereno,nessuno

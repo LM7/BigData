@@ -57,3 +57,4 @@
 0321,,nessuno
 0302,nubi sparse,nessuno
 0306,sereno,nessuno
+0314,,nessuno

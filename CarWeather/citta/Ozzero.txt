@@ -52,3 +52,4 @@
 0310,sereno,nessuno
 0306,sereno,nessuno
 0304,nebbia,nessunopioggia nebbia
+0320,nubi sparse,nessuno

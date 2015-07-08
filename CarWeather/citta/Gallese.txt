@@ -62,3 +62,4 @@
 0414,sereno,nessuno
 0323,nubi sparse,nessuno
 0305,coperto,nessunopioggia
+0317,poco nuvoloso,nessunopioggia

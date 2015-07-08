@@ -61,3 +61,4 @@
 0314,nubi sparse,nessuno
 0321,coperto,nessunopioggia
 0308,sereno,nessuno
+0322,pioggia debole,nessunopioggia

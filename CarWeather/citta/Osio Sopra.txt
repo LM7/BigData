@@ -63,3 +63,4 @@
 0306,sereno,nessuno
 0302,poco nuvoloso,nessuno
 0301,poco nuvoloso,nessuno
+0228,,nessuno
