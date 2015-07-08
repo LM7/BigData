@@ -54,3 +54,4 @@
 0309,poco nuvoloso,nessuno
 0306,nubi sparse,nessunopioggia
 0304,pioggia debole,nessunopioggia
+0308,poco nuvoloso,nessuno

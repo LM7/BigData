@@ -44,3 +44,4 @@
 0324,poco nuvoloso,nessuno
 0310,poco nuvoloso,nessuno
 0330,nubi sparse,nessunopioggia
+0407,poco nuvoloso,nessuno

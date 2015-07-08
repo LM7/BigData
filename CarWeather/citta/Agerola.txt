@@ -55,3 +55,4 @@
 0323,coperto,nessuno
 0312,coperto,nessunopioggia
 0302,coperto,nessunopioggia
+0314,nubi sparse,nessuno

@@ -57,3 +57,5 @@
 0304,pioggia e schiarite,nessunopioggia
 0307,sereno,nessuno
 0312,poco nuvoloso,nessuno
+0322,coperto,nessunopioggia
+0315,coperto,nessuno

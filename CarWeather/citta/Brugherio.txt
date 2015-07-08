@@ -63,3 +63,4 @@
 0301,nebbia,nessunonebbia
 0315,nubi sparse,nessunopioggia
 0322,pioggia debole,nessunopioggia
+0228,,nessuno

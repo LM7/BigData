@@ -59,3 +59,4 @@
 0304,nebbia,nessunopioggia nebbia
 0312,sereno,nessuno
 0321,coperto,nessunopioggia
+0315,nubi sparse,nessunopioggia

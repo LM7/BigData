@@ -48,3 +48,5 @@
 0318,nebbia,nessunonebbia
 0304,nebbia,nessunopioggia nebbia
 0313,poco nuvoloso,nessuno
+0316,sereno,nessunopioggia
+0317,nubi sparse,nessunopioggia

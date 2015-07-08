@@ -60,3 +60,4 @@
 0323,nebbia,nessunonebbia
 0319,poco nuvoloso,nessunonebbia
 0301,nebbia,nessunonebbia
+0228,,nessuno

@@ -46,3 +46,4 @@
 0305,,nessuno
 0312,,nessuno
 0319,,nessuno
+0306,,nessuno

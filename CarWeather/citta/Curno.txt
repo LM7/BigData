@@ -61,3 +61,4 @@
 0321,coperto,nessunopioggia
 0322,coperto,nessunopioggia
 0308,sereno,nessuno
+0315,coperto,nessuno

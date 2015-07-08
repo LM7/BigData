@@ -49,3 +49,5 @@
 0425,,nessuno
 0311,nebbia,nessuno
 0306,sereno,nessuno
+0302,nubi sparse,nessuno
+0319,nubi sparse,nessuno

@@ -46,3 +46,4 @@
 0304,nebbia,nessunopioggia nebbia
 0303,sereno,nessuno
 0307,sereno,nessuno
+0310,sereno,nessuno

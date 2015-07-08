@@ -59,3 +59,4 @@
 0322,coperto,nessunopioggia
 0307,sereno,nessuno
 0311,poco nuvoloso,nessuno
+0321,coperto,nessuno

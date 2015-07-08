@@ -57,3 +57,6 @@
 0315,nubi sparse,nessunopioggia
 0314,nubi sparse,nessuno
 0302,pioggia e schiarite,nessunopioggia
+0309,sereno,nessuno
+0320,nubi sparse,nessuno
+0317,nubi sparse,nessunopioggia

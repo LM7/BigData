@@ -49,3 +49,4 @@
 0304,nebbia,nessunopioggia nebbia
 0319,poco nuvoloso,nessunonebbia
 0307,sereno,nessuno
+0312,sereno,nessuno

@@ -63,3 +63,4 @@
 0407,poco nuvoloso,nessuno
 0424,poco nuvoloso,nessuno
 0309,poco nuvoloso,nessuno
+0228,,nessuno

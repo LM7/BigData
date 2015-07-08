@@ -26,3 +26,8 @@
 0330,poco nuvoloso,nessuno
 0303,poco nuvoloso,nessunonebbia
 0306,poco nuvoloso,nessuno
+0421,sereno,nessuno
+0307,,nessuno
+0317,,nessuno
+0408,sereno,nessuno
+0502,coperto,nessuno

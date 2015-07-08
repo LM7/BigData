@@ -60,3 +60,4 @@
 0302,nubi sparse,nessuno
 0319,nubi sparse,nessuno
 0315,,nessuno
+0314,,nessuno

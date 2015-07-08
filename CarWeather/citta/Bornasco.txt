@@ -54,3 +54,5 @@
 0310,sereno,nessuno
 0323,nebbia,nessunonebbia
 0311,poco nuvoloso,nessuno
+0304,nebbia,nessunopioggia nebbia
+0319,poco nuvoloso,nessunonebbia

@@ -55,3 +55,4 @@
 0323,coperto,nessuno
 0308,poco nuvoloso,nessuno
 0318,poco nuvoloso,nessuno
+0302,coperto,nessunopioggia

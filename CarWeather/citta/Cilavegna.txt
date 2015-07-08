@@ -17,3 +17,5 @@
 0422,sereno,nessuno
 0429,coperto,nessunopioggia
 0430,nubi sparse,nessuno
+0401,sereno,nessuno
+0426,,nessuno

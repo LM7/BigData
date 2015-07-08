@@ -57,3 +57,7 @@
 0321,coperto,nessunopioggia
 0318,nebbia,nessunonebbia
 0310,sereno,nessuno
+0322,pioggia debole,nessunopioggia
+0302,pioggia e schiarite,nessunopioggia
+0323,nebbia,nessunonebbia
+0316,sereno,nessunopioggia

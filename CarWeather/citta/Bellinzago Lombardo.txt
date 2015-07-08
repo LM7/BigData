@@ -59,3 +59,4 @@
 0306,,nessuno
 0308,,nessuno
 0322,,nessuno
+0302,,nessuno

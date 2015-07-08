@@ -45,3 +45,5 @@
 0313,sereno,nessuno
 0421,sereno,nessuno
 0309,sereno,nessuno
+0324,poco nuvoloso,nessuno
+0416,poco nuvoloso,nessuno
