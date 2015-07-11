@@ -103,6 +103,17 @@ microsecondi: 335690577
 secondi: 335.690577
 minuti: 5.59484295
 
+TEMPI HADOOP
+
+500mila (giusto per prova)
+
+microsecondi: 415210975 
+secondi: 415.210975
+minuti: 6.920182916666667
+
+6milioni
+
+
 
 
 
