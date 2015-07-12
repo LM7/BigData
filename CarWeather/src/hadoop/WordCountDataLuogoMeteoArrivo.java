@@ -89,7 +89,7 @@ public class WordCountDataLuogoMeteoArrivo {
 		job.setReducerClass(IntSumReducer.class);
 		job.setOutputKeyClass(Text.class);
 		job.setOutputValueClass(IntWritable.class);
-		FileInputFormat.addInputPath(job, new Path("NewDatasetMobility6.txt"));
+		FileInputFormat.addInputPath(job, new Path("NewDatasetMobility.txt"));
 		FileSystem fs;
 		try {
 			fs = FileSystem.get(new Configuration());

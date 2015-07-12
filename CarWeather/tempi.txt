@@ -113,7 +113,21 @@ minuti: 6.920182916666667
 
 6milioni
 
+microsecondi: 191300581 
+secondi: 191.300581
+minuti: 3.1883430166666664
 
+12milioni
+
+microsecondi: 394432143 
+secondi: 394.432143
+minuti: 6.57386905
+
+18milioni
+
+microsecondi: 540725754 
+secondi: 540.725754
+minuti: 9.0120959
 
 
 
