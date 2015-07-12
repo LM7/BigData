@@ -1,22 +1,6 @@
 package hadoop;
 
-/**
- * Licensed to the Apache Software Foundation (ASF) under one
- * or more contributor license agreements.  See the NOTICE file
- * distributed with this work for additional information
- * regarding copyright ownership.  The ASF licenses this file
- * to you under the Apache License, Version 2.0 (the
- * "License"); you may not use this file except in compliance
- * with the License.  You may obtain a copy of the License at
- *
- *     http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software
- * distributed under the License is distributed on an "AS IS" BASIS,
- * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
- * See the License for the specific language governing permissions and
- * limitations under the License.
- */
+
 
 import java.io.IOException;
 import java.util.StringTokenizer;
@@ -35,9 +19,10 @@ import org.apache.hadoop.util.GenericOptionsParser;
 
 import parser.Parser;
 import takeMeteo.ilMeteo;
+import workData.Data;
 
-public class WordCountDataLuogoMeteoArrivo {
-
+public class WordCountLuogoMeteoOrariPartArrivo {
+	
 	public static class TokenizerMapper extends Mapper<Object, Text, Text, IntWritable>{
 
 
@@ -49,14 +34,27 @@ public class WordCountDataLuogoMeteoArrivo {
 			StringTokenizer itr1 = new StringTokenizer(value.toString(), "\n");
 			while (itr1.hasMoreTokens()) {
 				String line = itr1.nextToken();
+				
+				int orarioPartenza;
+				int orarioArrivo;
 				String[] arrayLine = Parser.oneLineToArray(line);
-				String[] datiMeteo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
-				if (datiMeteo == null || datiMeteo[0].equals("") ) {
-					datiMeteo = new String[1];
-					datiMeteo[0] = "NienteMeteo";
+				String[] datiMeteoPartenza = ilMeteo.findMeteo(arrayLine[4], arrayLine[1]);
+				
+				if (datiMeteoPartenza == null || datiMeteoPartenza.equals("")) {
+					datiMeteoPartenza = new String[1];
+					datiMeteoPartenza[0] = "NienteMeteoPartenza";
 				}
-				String data = arrayLine[6].substring(0, 4)+"-"+arrayLine[6].substring(4, 6)+"-"+arrayLine[6].substring(6, 8);
-				String wordString = data +" "+arrayLine[9]+" "+datiMeteo[0];
+				String[] datiMeteoArrivo = ilMeteo.findMeteo(arrayLine[9], arrayLine[6]);
+				
+				if (datiMeteoArrivo == null || datiMeteoArrivo.equals("") ) {
+					datiMeteoArrivo = new String[1];
+					datiMeteoArrivo[0] = "NienteMeteoArrivo";
+				}
+				orarioPartenza = Data.fasciaOraria(arrayLine[1]);
+				orarioArrivo = Data.fasciaOraria(arrayLine[6]);
+				
+				String wordString = arrayLine[4]+" "+datiMeteoPartenza[0]+" Fascia Oraria: "+orarioPartenza+" "+arrayLine[9]+" "+datiMeteoArrivo[0]+" Fascia Oraria: "+orarioArrivo;
+				
 				word = new Text(wordString);
 				context.write(word, one);
 			}
@@ -117,4 +115,5 @@ public class WordCountDataLuogoMeteoArrivo {
 			System.exit(1);
 		}
 	}
+
 }

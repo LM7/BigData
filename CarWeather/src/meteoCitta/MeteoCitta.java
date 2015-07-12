@@ -1,4 +1,4 @@
-package prova;
+package meteoCitta;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
@@ -10,7 +10,7 @@ import java.io.InputStreamReader;
 
 import takeMeteo.ilMeteo;
 
-public class Prova {
+public class MeteoCitta {
 	
 	public static void main(String[] args) throws Exception {
 		//BufferedReader reader = new BufferedReader(new FileReader("DatasetMobility.txt"));
@@ -93,7 +93,7 @@ public class Prova {
 
 	private static void add(String string){
 		try {
-			if (! Prova.in(string)) {		
+			if (! MeteoCitta.in(string)) {		
 				FileWriter fileWriter = new FileWriter("NUOVElorenzo.txt",true);
 
 				BufferedWriter bufferedWriter =new BufferedWriter(fileWriter);

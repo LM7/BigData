@@ -19,9 +19,9 @@ minuti: 2.7627793166666668
 LUOGOMETEOFESTIVOARRIVO
 
 18milioni
-microsecondi: 1059034582
-secondi: 1059.034582
-minuti: 17.65057636666666
+microsecondi: 719389498
+secondi: 719.389498
+minuti: 11.989824966666667
 
 12milioni
 microsecondi: 402962862
@@ -105,11 +105,7 @@ minuti: 5.59484295
 
 TEMPI HADOOP
 
-500mila (giusto per prova)
-
-microsecondi: 415210975 
-secondi: 415.210975
-minuti: 6.920182916666667
+WordCountDataLuogoMeteoArrivo
 
 6milioni
 
@@ -128,6 +124,30 @@ minuti: 6.57386905
 microsecondi: 540725754 
 secondi: 540.725754
 minuti: 9.0120959
+
+
+WordCountLuogoMeteoOrariPartArrivo
+
+6milioni
+
+microsecondi: 491590913 
+secondi: 491.590913
+minuti: 8.193181883333333
+
+12milioni
+
+microsecondi: 1038418645 
+secondi: 1038.418645
+minuti: 17.306977416666665
+
+18milioni
+
+microsecondi: 1661701427 
+secondi: 1661.701427
+minuti: 27.695023783333333
+
+
+
 
 
 
