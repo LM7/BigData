@@ -17,4 +17,4 @@ Il progetto è relativo allo sviluppo di uno strumento di valutazione dei viaggi
 ------------------------------------------------
 
 <br>
-Per maggiori informazioni consultare la documentazione: https://github.com/LM7/BigData/blob/master/CarWeather%20-%20Relazione.pdf
+Per maggiori informazioni consultare la documentazione:<br> https://github.com/LM7/BigData/blob/master/CarWeather%20-%20Relazione.pdf
