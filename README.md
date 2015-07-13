@@ -14,3 +14,7 @@ a cura di:<br>
 <b>Descrizione</b>:<br>
 Il progetto è relativo allo sviluppo di uno strumento di valutazione dei viaggi effettuati nelle province del Lazio, della Campania e della Lombardia durante i mesi di febbraio, marzo, aprile e maggio 2015. I dati relativi ai viaggi sono stati incrociati con informazioni associate alle condizioni meteorologiche delle zone analizzate, per fornire una panoramica sulle scelte dei viaggiatori in base al clima del luogo di partenza e di destinazione dei loro spostamenti.
 
+------------------------------------------------
+
+<br>
+Per maggiori informazioni consultare la documentazione: https://github.com/LM7/BigData/blob/master/CarWeather%20-%20Relazione.pdf
