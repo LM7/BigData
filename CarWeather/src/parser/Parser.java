@@ -72,15 +72,15 @@ public class Parser {
 	 * 1 = Data di Partenza
 	 * 2 = Tipo di Strada
 	 * 3 = CAP di Partenza
-	 * 4 = Città di Partenza
+	 * 4 = Citt�� di Partenza
 	 * 5 = Provincia di Partenza
 	 * 6 = Data di Arrivo
 	 * 7 = Tipo di Strada
 	 * 8 = CAP di Arrivo
-	 * 9 = Città di Arrivo
+	 * 9 = Citt�� di Arrivo
 	 * 10 = Provincia di Arrivo
 	 * 11 = Distanza
-	 * 12 = Velocità Media
+	 * 12 = Velocit�� Media
 	 * 
 	 * Si crea anche un file con i 13 dati che vogliamo (invece dei 18 iniziali)
 	 *
@@ -133,6 +133,12 @@ public class Parser {
 		
 	}
 	
+	/***
+	 * Metodo per pulire il Dataset da record con qualche imperfezione
+	 * Raccolta dei record eliminati in "LineeBrutte.txt"
+	 * @param file
+	 * @throws IOException
+	 */
 	
 	public static void newDataset(File file) throws IOException {
 		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
@@ -161,9 +167,15 @@ public class Parser {
 		reader.close();
 	}
 	
+	/***
+	 * Metodo per ridimensionare il DatasetMobility, con circa 18milioni di record: passare a 12milioni o a 6milioni
+	 * @param file
+	 * @throws IOException
+	 */
+	
 	public static void tagliaDataset(File file) throws IOException {
 		final int COSTANTE_TAGLIO = 6000000; //12000000 e dopo 6000000
-		BufferedReader reader = new BufferedReader(new FileReader(file)); //titoli appena ottenuti
+		BufferedReader reader = new BufferedReader(new FileReader(file));
 		String line = reader.readLine();
 		PrintWriter datiTagliati = new PrintWriter("NewDatasetMobility6.txt", "UTF-8");
 		int lap = 1;
@@ -180,18 +192,13 @@ public class Parser {
 	}
 	
 	public static void main(String[] args) throws IOException {
-		//File file = new File("province.txt");
-		//File file = new File("DatasetMobility.txt");
-		//Parser.fileToProv(file);
-		//Parser.fileToRight(file);
-		/*String[] parole;
-		String text = "3,1,20150302220013,U,00169,Roma,RM,3,2015032221157,U,00043,Ciampino,RM,3,11500,16,13,3";
-		parole = Parser.oneLineToArray(text);
-		for (int i=0; i <parole.length; i++) {
-			System.out.println(i+": "+parole[i]);
-		}*/
-		File file = new File("NewDatasetMobility.txt");
-		Parser.tagliaDataset(file);
+		/* Scaricare il DatasetMobility,
+		 * File file = new File("DatasetMobility.txt");
+		 * Parser.newDataset(file); //Questo pulisce il dataset creando NewDatasetMobility.txt
+		 * File file2 = new File("NewDatasetMobility.txt");
+		 * Parser.tagliaDataset(file2); //Questo taglia il dataset
+		 * 
+		 */
 	}
 
 }
